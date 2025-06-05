@@ -1,0 +1,357 @@
+{
+  "timestamp": "2025-06-05T09:33:31.013861",
+  "name": "Dos Acequias",
+  "status": null,
+  "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286",
+  "price_from": "$554,990",
+  "address": "103 Prudencio St, Santa Fe, New Mexico 87505",
+  "phone": "(505) 305-0255",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/79BAU358/"
+  ],
+  "location": {
+    "latitude": 35.675644,
+    "longitude": -105.972072,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$554,990-$664,990",
+    "sqft_range": "1,375-2,180",
+    "bed_range": "2-4",
+    "bath_range": "2.0-3.0",
+    "stories_range": "1-2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "New single",
+      "description": "New single family construction homes with the expertise of Pulte home builders",
+      "icon_url": null
+    },
+    {
+      "name": "Personalize your",
+      "description": "Personalize your home at our professional design studio",
+      "icon_url": null
+    },
+    {
+      "name": "Easy access",
+      "description": "Easy access to downtown, the State Capitol complex, and commuter corridors to Los Alamos and Albuquerque",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes historic",
+      "description": "Minutes to historic Santa Fe Plaza, offering eclectic arts and entertainment venues plus world-class dining and shopping",
+      "icon_url": null
+    },
+    {
+      "name": "Approximately one-half",
+      "description": "Approximately one-half mile to the Santa Fe Rrail trailhead for walking and biking near downtown and the Santa Fe River",
+      "icon_url": null
+    },
+    {
+      "name": "Contemporary new",
+      "description": "Contemporary new homes with innovative designs and low maintenance yards",
+      "icon_url": null
+    },
+    {
+      "name": "This community",
+      "description": "This community includes a Fiber network that provides fast, reliable, multi-user Internet needed in homes today and in the future",
+      "icon_url": null
+    },
+    {
+      "name": "Brand new",
+      "description": "Brand new homes focused on quality construction and energy efficiency",
+      "icon_url": null
+    },
+    {
+      "name": "Perfect for",
+      "description": "Perfect for seasonal stays and short term rentals",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Mijas",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/mijas-697825",
+      "details": {
+        "price": "From $554,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,375 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604742/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/80j7QYVb/V/625957/1"
+        }
+      ]
+    },
+    {
+      "name": "Bosque",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/bosque-697826",
+      "details": {
+        "price": "From $562,990",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,501 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604745/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/8tUvKv66/V/625961/1"
+        }
+      ]
+    },
+    {
+      "name": "Salinas",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/salinas-697824",
+      "details": {
+        "price": "From $641,990",
+        "beds": "3 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,048 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604749/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/qL5wyaG0/V/625958/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/qL5wyaG0/V/625959/1"
+        }
+      ]
+    },
+    {
+      "name": "Chaco",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/chaco-697823",
+      "details": {
+        "price": "From $664,990",
+        "beds": "3-4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,180 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676923/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/NAs9kY24/V/625960/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/NAs9kY24/V/625956/1"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "103 Prudencio St",
+      "plan": "Mijas",
+      "id": "697825",
+      "address": "103 Prudencio St, Santa Fe, New Mexico",
+      "price": "$554,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,375 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604742/1",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/mijas-697825",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604743/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604744/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604742/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/26JCH39I/V/171514/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604743/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604744/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604742/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/26JCH39I/V/171514/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Exk6pyu3/V/604743/1"
+      ]
+    },
+    {
+      "name": "103 Prudencio St",
+      "plan": "Bosque",
+      "id": "697826",
+      "address": "103 Prudencio St, Santa Fe, New Mexico",
+      "price": "$562,990",
+      "beds": "3 bd",
+      "baths": "2 ba",
+      "sqft": "1,501 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604745/1",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/bosque-697826",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1YquJJoD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/FWOetuAV/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/LxGhggAk/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gRhHxSfX/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dvp4ojif/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JZmCoKTJ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Ox1Lajz7/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/yLoecyqK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SgO26bap/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604746/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604747/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/CbQ2DMgm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604745/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ofYXccVC/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SfOhonhZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MzOAPvQ4/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ibjb4xvk/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/e606Ja5l/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ClkXcafM/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/AZtq5sct/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/QzBAPvUM/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vMalCLjZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/aF2w0T3I/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/fxU67ItD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1YquJJoD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/FWOetuAV/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/LxGhggAk/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gRhHxSfX/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dvp4ojif/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JZmCoKTJ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Ox1Lajz7/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/yLoecyqK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SgO26bap/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604746/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604747/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/CbQ2DMgm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5qYAlxQR/V/604745/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ofYXccVC/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SfOhonhZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MzOAPvQ4/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ibjb4xvk/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/e606Ja5l/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ClkXcafM/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/AZtq5sct/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/QzBAPvUM/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vMalCLjZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/aF2w0T3I/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/fxU67ItD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1YquJJoD/"
+      ]
+    },
+    {
+      "name": "103 Prudencio St",
+      "plan": "Salinas",
+      "id": "697824",
+      "address": "103 Prudencio St, Santa Fe, New Mexico",
+      "price": "$641,990",
+      "beds": "3 bd",
+      "baths": "3 ba",
+      "sqft": "2,048 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604749/1",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/salinas-697824",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604750/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/R1gvfRMR/V/190618/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604749/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/kItQawJl/V/295878/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604748/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604750/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/R1gvfRMR/V/190618/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604749/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/kItQawJl/V/295878/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9yZZnBvi/V/604748/1"
+      ]
+    },
+    {
+      "name": "103 Prudencio St",
+      "plan": "Chaco",
+      "id": "697823",
+      "address": "103 Prudencio St, Santa Fe, New Mexico",
+      "price": "$664,990",
+      "beds": "3-4 bd",
+      "baths": "2.5 ba",
+      "sqft": "2,180 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676923/13",
+      "url": "https://www.pulte.com/homes/new-mexico/santa-fe/santa-fe/dos-acequias-211286/chaco-697823",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676902/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676903/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676897/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676896/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676895/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676919/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XZldZQ1B/V/604753/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XZldZQ1B/V/604752/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676925/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676931/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676930/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676899/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676923/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676924/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676907/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676928/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676929/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676926/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676932/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676913/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676912/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676910/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676909/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676901/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676900/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676902/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676903/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676897/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676896/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676895/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676919/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XZldZQ1B/V/604753/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XZldZQ1B/V/604752/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676925/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676931/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676930/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676899/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676923/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676924/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676907/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676928/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676929/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676926/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676932/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676913/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676912/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676910/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676909/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676901/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SdCQRpcx/V/676900/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

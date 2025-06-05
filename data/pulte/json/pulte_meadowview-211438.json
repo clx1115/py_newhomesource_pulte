@@ -1,0 +1,365 @@
+{
+  "timestamp": "2025-06-03T13:59:57.848635",
+  "name": "Meadowview",
+  "status": null,
+  "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438",
+  "price_from": "$609,990",
+  "address": "531 S 88th Ave, Ridgefield, Washington 98642",
+  "phone": "(360) 506-5800",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/X4vUC3KZ/"
+  ],
+  "location": {
+    "latitude": 45.808899,
+    "longitude": -122.631805,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$609,990-$744,990",
+    "sqft_range": "2,503-3,233",
+    "bed_range": "3-6",
+    "bath_range": "2.5-5.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Andover",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/andover-698514",
+      "details": {
+        "price": "From $609,990",
+        "beds": "3-4 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "2,503 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/tq9nPWB2/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/tyJVfN4J/V/667633/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/tyJVfN4J/V/667634/13"
+        }
+      ]
+    },
+    {
+      "name": "Preston",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/preston-698507",
+      "details": {
+        "price": "From $624,990",
+        "beds": "3-5 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "2,570+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kNDu2XER/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Quincy",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/quincy-698513",
+      "details": {
+        "price": "From $669,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "2,812 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/otvDh7Qe/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/azGCDWfR/V/667620/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/azGCDWfR/V/667621/13"
+        }
+      ]
+    },
+    {
+      "name": "Roslyn",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/roslyn-698506",
+      "details": {
+        "price": "From $699,990",
+        "beds": "4-5 bd",
+        "baths": "3.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "3,025 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/VfSv85Wh/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/2JAcFO24/V/666316/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/2JAcFO24/V/666315/13"
+        }
+      ]
+    },
+    {
+      "name": "Dahlia",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/dahlia-698509",
+      "details": {
+        "price": "From $729,990",
+        "beds": "5-6 bd",
+        "baths": "4.5-5.5 ba",
+        "half_baths": null,
+        "sqft": "3,185 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pHy91Wsv/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Lynwood",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/lynwood-698508",
+      "details": {
+        "price": "From $744,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "3,233 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/jNnqoha2/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/S27WhwLm/V/672509/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/S27WhwLm/V/672507/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "531 S 88th Ave",
+      "plan": "Andover",
+      "id": "698514",
+      "address": "531 S 88th Ave, Ridgefield, Washington",
+      "price": "$609,990",
+      "beds": "3-4 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "2,503 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/tq9nPWB2/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/andover-698514",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/OOiDe6g1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XWMYcuFp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ISPrKyMQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/tq9nPWB2/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/q1kLzcci/V/528386/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fBo7iTPE/V/528388/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PncWIRF5/V/528385/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/OOiDe6g1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XWMYcuFp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/ISPrKyMQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/tq9nPWB2/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/q1kLzcci/V/528386/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fBo7iTPE/V/528388/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PncWIRF5/V/528385/13"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Preston",
+      "id": "698507",
+      "address": null,
+      "price": "$624,990",
+      "beds": "3-5 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "2,570+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kNDu2XER/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/preston-698507",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": "531 S 88th Ave",
+      "plan": "Quincy",
+      "id": "698513",
+      "address": "531 S 88th Ave, Ridgefield, Washington",
+      "price": "$669,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "2,812 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/otvDh7Qe/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/quincy-698513",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XqLDUpk1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kWEyDi4p/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BpJRmR13/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/otvDh7Qe/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455303/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455308/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455314/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XqLDUpk1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kWEyDi4p/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BpJRmR13/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/otvDh7Qe/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455303/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455308/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OBkleaQ5/V/455314/13"
+      ]
+    },
+    {
+      "name": "531 S 88th Ave",
+      "plan": "Roslyn",
+      "id": "698506",
+      "address": "531 S 88th Ave, Ridgefield, Washington",
+      "price": "$699,990",
+      "beds": "4-5 bd",
+      "baths": "3.5-4.5 ba",
+      "sqft": "3,025 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/VfSv85Wh/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/roslyn-698506",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UWXOcVmF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kay44gdO/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1gFdvmJx/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mBy2BLsc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/yME342G8/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vEnWqs64/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/rIgKkndc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Q4pCAeCT/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/AA6Gmen4/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/YSpkXdLm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/3xDWBNCp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mRrGNjCF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/u7E2IaPm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/YxcKKVGm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JMbtRpXK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/VfSv85Wh/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/WLiWnTmN/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BU8rgrLN/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0WQCJyDQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UkFpYUaY/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/EotzS4ml/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/DvzeUrSI/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/d4O4Knsi/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/wI0SpEbA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/PQtxYcqZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/B3GZ2jgG/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/6wB2CpSn/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/bNmAZwTD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/WhLgpQpH/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/RbI51X40/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UWXOcVmF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/kay44gdO/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1gFdvmJx/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mBy2BLsc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/yME342G8/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vEnWqs64/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/rIgKkndc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Q4pCAeCT/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/AA6Gmen4/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/YSpkXdLm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/3xDWBNCp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mRrGNjCF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/u7E2IaPm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/YxcKKVGm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JMbtRpXK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/VfSv85Wh/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/WLiWnTmN/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BU8rgrLN/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0WQCJyDQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UkFpYUaY/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/EotzS4ml/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/DvzeUrSI/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/d4O4Knsi/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/wI0SpEbA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/PQtxYcqZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/B3GZ2jgG/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/6wB2CpSn/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/bNmAZwTD/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/WhLgpQpH/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/RbI51X40/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UWXOcVmF/"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Dahlia",
+      "id": "698509",
+      "address": null,
+      "price": "$729,990",
+      "beds": "5-6 bd",
+      "baths": "4.5-5.5 ba",
+      "sqft": "3,185 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pHy91Wsv/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/dahlia-698509",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": "531 S 88th Ave",
+      "plan": "Lynwood",
+      "id": "698508",
+      "address": "531 S 88th Ave, Ridgefield, Washington",
+      "price": "$744,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-4.5 ba",
+      "sqft": "3,233 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/jNnqoha2/",
+      "url": "https://www.pulte.com/homes/washington/vancouver/ridgefield/meadowview-211438/lynwood-698508",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SEYQTref/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/U8hhB5Mb/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MJz2XSyK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/jNnqoha2/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZVsHLHoQ/V/591949/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/B7POSy1f/V/591962/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SEYQTref/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/U8hhB5Mb/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MJz2XSyK/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/jNnqoha2/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZVsHLHoQ/V/591949/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/B7POSy1f/V/591962/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/SEYQTref/"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

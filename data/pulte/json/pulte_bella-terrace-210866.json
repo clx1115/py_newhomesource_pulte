@@ -1,0 +1,523 @@
+{
+  "timestamp": "2025-06-03T18:12:25.433204",
+  "name": "Bella Terrace",
+  "status": null,
+  "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866",
+  "price_from": "$496,990",
+  "address": "702 Risdon Trail North, Saline, Michigan 48176",
+  "phone": "(734) 292-4841",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/w_1920,h_1240,ar_1.55,q_auto,f_auto,c_fill/https://pultegroup.picturepark.com/Go/2JrDUBvT/V/79825/1"
+  ],
+  "location": {
+    "latitude": 42.190802,
+    "longitude": -83.772346,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$496,990-$561,990",
+    "sqft_range": "2,390-3,290",
+    "bed_range": "3-6",
+    "bath_range": "2.5-4.0",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Phase almost",
+      "description": "Phase 2 is almost sold out & Phase 3 is coming soon",
+      "icon_url": null
+    },
+    {
+      "name": "Saline City",
+      "description": "Saline City Utilities",
+      "icon_url": null
+    },
+    {
+      "name": "Highly rated",
+      "description": "Highly rated Saline Area Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient access",
+      "description": "Convenient access to I-94 and US-23",
+      "icon_url": null
+    },
+    {
+      "name": "Live within",
+      "description": "Live within a short distance of charming shops and restaurants in historic downtown Saline",
+      "icon_url": null
+    },
+    {
+      "name": "Located adjacent",
+      "description": "Located adjacent to the Saline Recreation Center offering fitness facilities, indoor sport courts, and indoor aquatic center, and outdoor activities including ball fields, tennis courts, play structures and a small frisbee golf course",
+      "icon_url": null
+    },
+    {
+      "name": "Free family",
+      "description": "Free family membership to the Saline Recreation Center",
+      "icon_url": null
+    },
+    {
+      "name": "miles downtown",
+      "description": "1.5 miles from downtown Saline & 3.4 Miles to downtown Pittsfield",
+      "icon_url": null
+    },
+    {
+      "name": "miles Costco",
+      "description": "4 miles to Costco",
+      "icon_url": null
+    },
+    {
+      "name": "miles I-94",
+      "description": "3.4 miles from I-94",
+      "icon_url": null
+    },
+    {
+      "name": "miles University",
+      "description": "8 miles to University of Michigan",
+      "icon_url": null
+    },
+    {
+      "name": "Short drive",
+      "description": "Short drive to downtown Ann Arbor, home to more than 200 restaurants and bars, as well as entertainment venues such as Blue Llama Jazz Club, Circ, Michigan Theater and State Theater",
+      "icon_url": null
+    },
+    {
+      "name": "Year limited",
+      "description": "10 Year limited structural warranty",
+      "icon_url": null
+    },
+    {
+      "name": "Luxurious Life-Tested®",
+      "description": "Luxurious Life-Tested® new construction homes",
+      "icon_url": null
+    },
+    {
+      "name": "Now selling!",
+      "description": "Now selling! Visit us at our two models for details.",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Newberry",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/newberry-694870",
+      "details": {
+        "price": "From $496,990",
+        "beds": "3-4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,390+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YjpTDnUl/V/462705/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/Avfy2TO3/V/406323/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/Avfy2TO3/V/406324/1"
+        }
+      ]
+    },
+    {
+      "name": "Mercer",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/mercer-694869",
+      "details": {
+        "price": "From $506,990",
+        "beds": "3-5 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "2,508+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YFCQnL0P/V/148362/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/QbF2baZe/V/406321/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/QbF2baZe/V/406322/1"
+        }
+      ]
+    },
+    {
+      "name": "Continental",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/continental-694868",
+      "details": {
+        "price": "From $531,990",
+        "beds": "4-5 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "3,008+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/lHkRMHNQ/V/462704/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/LdFkdWOh/V/406319/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/LdFkdWOh/V/406320/1"
+        }
+      ]
+    },
+    {
+      "name": "Waverly",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/waverly-694871",
+      "details": {
+        "price": "From $561,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "3,290 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/BLGUjF0O/V/518269/1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/SBYZABk9/V/406325/1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/SBYZABk9/V/406326/1"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "702 Risdon Trail North",
+      "plan": "Newberry",
+      "id": "694870",
+      "address": "702 Risdon Trail North, Saline, Michigan",
+      "price": "$496,990",
+      "beds": "3-4 bd",
+      "baths": "2.5 ba",
+      "sqft": "2,390+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YjpTDnUl/V/462705/1",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/newberry-694870",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420103/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420101/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420100/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420104/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420097/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420098/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420099/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420069/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420071/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pPSDeljJ/V/561273/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TbwCyKF4/V/412172/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/a8nRfuDW/V/561274/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8duofhbK/V/497240/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420077/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/417935/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420072/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YjpTDnUl/V/462705/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420073/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420074/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420075/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420076/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420087/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420088/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420089/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420090/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420091/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420092/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420093/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420094/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420095/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420096/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420102/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420103/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420101/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420100/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420104/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420097/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420098/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420099/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420069/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420071/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pPSDeljJ/V/561273/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TbwCyKF4/V/412172/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/a8nRfuDW/V/561274/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8duofhbK/V/497240/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420077/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/417935/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420072/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YjpTDnUl/V/462705/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420073/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420074/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420075/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420076/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420087/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420088/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420089/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420090/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420091/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420092/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420093/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420094/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420095/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420096/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420102/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/KQQlT1Uf/V/420103/1"
+      ]
+    },
+    {
+      "name": "702 Risdon Trail North",
+      "plan": "Mercer",
+      "id": "694869",
+      "address": "702 Risdon Trail North, Saline, Michigan",
+      "price": "$506,990",
+      "beds": "3-5 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "2,508+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YFCQnL0P/V/148362/1",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/mercer-694869",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434031/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434043/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434030/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434036/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434035/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434042/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412184/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412186/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412187/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412189/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TNWTosJP/V/434028/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TNWTosJP/V/434029/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434041/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YFCQnL0P/V/148362/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434034/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434027/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434044/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434037/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434026/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434025/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434023/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434024/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434022/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434021/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434020/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434032/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434033/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434031/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434043/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434030/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434036/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434035/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434042/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412184/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412186/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412187/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t11gFAMy/V/412189/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TNWTosJP/V/434028/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/TNWTosJP/V/434029/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434041/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/YFCQnL0P/V/148362/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434034/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434027/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434044/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434037/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eJUEM4mE/V/434026/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434025/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434023/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434024/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434022/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434021/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434020/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434032/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ZKGayVKI/V/434033/13"
+      ]
+    },
+    {
+      "name": "702 Risdon Trail North",
+      "plan": "Continental",
+      "id": "694868",
+      "address": "702 Risdon Trail North, Saline, Michigan",
+      "price": "$531,990",
+      "beds": "4-5 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "3,008+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/lHkRMHNQ/V/462704/1",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/continental-694868",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442658/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442607/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442608/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442662/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442663/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442660/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442659/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442661/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442618/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442619/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442620/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442623/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442617/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442656/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442616/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/N5cbtTQ4/V/609002/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vN8FsKqu/V/412174/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UaVVzmWu/V/609342/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vN8FsKqu/V/412183/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442643/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442644/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442645/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/lHkRMHNQ/V/462704/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442628/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442629/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442624/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442653/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442654/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442655/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442625/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442626/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442627/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442646/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442647/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442648/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442649/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442650/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442651/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442652/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442641/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442642/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442611/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442630/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442614/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442657/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442658/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442607/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442608/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442662/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442663/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442660/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442659/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442661/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442618/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442619/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442620/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442623/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442617/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442656/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442616/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/N5cbtTQ4/V/609002/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vN8FsKqu/V/412174/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UaVVzmWu/V/609342/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vN8FsKqu/V/412183/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442643/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442644/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442645/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/lHkRMHNQ/V/462704/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442628/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442629/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442624/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442653/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442654/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442655/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442625/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442626/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442627/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442646/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442647/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442648/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442649/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442650/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442651/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442652/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442641/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442642/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442611/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442630/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442614/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/gtp7WDTv/V/442657/1"
+      ]
+    },
+    {
+      "name": "702 Risdon Trail North",
+      "plan": "Waverly",
+      "id": "694871",
+      "address": "702 Risdon Trail North, Saline, Michigan",
+      "price": "$561,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "3,290 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/BLGUjF0O/V/518269/1",
+      "url": "https://www.pulte.com/homes/michigan/detroit/saline/bella-terrace-210866/waverly-694871",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403983/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403985/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403986/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GxNKeUiY/V/548084/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/IgLHphjs/V/412176/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jVFXoOq1/V/610158/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403975/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403973/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403974/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/BLGUjF0O/V/518269/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403976/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403977/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403978/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403984/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403980/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403979/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403981/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403982/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403983/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403985/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403986/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GxNKeUiY/V/548084/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/IgLHphjs/V/412176/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jVFXoOq1/V/610158/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403975/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403973/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403974/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/BLGUjF0O/V/518269/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403976/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403977/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403978/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403984/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403980/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403979/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403981/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403982/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/QnxvZZqH/V/403983/1"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

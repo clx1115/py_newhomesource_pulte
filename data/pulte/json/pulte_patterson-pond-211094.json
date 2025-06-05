@@ -1,0 +1,416 @@
+{
+  "timestamp": "2025-06-03T15:10:00.254195",
+  "name": "Patterson Pond",
+  "status": null,
+  "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094",
+  "price_from": "$600",
+  "address": "130 Fordham Court, Fort Mill, South Carolina 29715",
+  "phone": "(803) 879-4883",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/RPXObOP2/V/591692/13"
+  ],
+  "location": {
+    "latitude": 34.998253,
+    "longitude": -80.92613,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$558,990-$593,990",
+    "sqft_range": "2,803-3,205",
+    "bed_range": "4-7",
+    "bath_range": "2.5-5.0",
+    "stories_range": "3-5",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Intimate Community",
+      "description": "Intimate Community Size with Only 19 Lots",
+      "icon_url": null
+    },
+    {
+      "name": "Highly Rated",
+      "description": "Highly Rated Fort Mill Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Quick Access",
+      "description": "Quick Access to Both Interstate 77 and Highway 521",
+      "icon_url": null
+    },
+    {
+      "name": "Close Proximity",
+      "description": "Close Proximity to Major Employment Centers such as LPL Financial, Red Ventures, Movement Mortgage, and Ballantyne Corporate Place",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "Basement Homesites Available",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Shopping,",
+      "description": "Minutes from Shopping, Dining, and Entertainment at Baxter Village and Ballantyne Village",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Uptown",
+      "description": "20 Miles from Uptown Charlotte",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Access",
+      "description": "Convenient Access to Recreation at Anne Springs Close Greenway and the Catawba Riverwalk",
+      "icon_url": null
+    },
+    {
+      "name": "Mile Soft",
+      "description": "1/4 Mile Soft Surface Trail within the Community",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Furman",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/furman-697125",
+      "details": {
+        "price": "From $558,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-5 ba",
+        "half_baths": null,
+        "sqft": "2,803+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424003/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/2yWHd55V/V/543538/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/2yWHd55V/V/543543/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/2yWHd55V/V/543541/13"
+        }
+      ]
+    },
+    {
+      "name": "Wingate",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/wingate-697127",
+      "details": {
+        "price": "From $563,990",
+        "beds": "4-7 bd",
+        "baths": "2.5-5 ba",
+        "half_baths": null,
+        "sqft": "2,821+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Bz4OGOgs/V/324260/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Riverton",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/riverton-697126",
+      "details": {
+        "price": "From $593,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-5 ba",
+        "half_baths": null,
+        "sqft": "3,135+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591692/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/pkSJTNSj/V/543544/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/pkSJTNSj/V/543525/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/pkSJTNSj/V/543526/13"
+        },
+        {
+          "name": "4th Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/pkSJTNSj/V/543527/13"
+        },
+        {
+          "name": "5th Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/pkSJTNSj/V/543528/13"
+        }
+      ]
+    },
+    {
+      "name": "Vanderbilt",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/vanderbilt-697128",
+      "details": {
+        "price": "From $593,990",
+        "beds": "4-6 bd",
+        "baths": "2.5-4 ba",
+        "half_baths": null,
+        "sqft": "3,205+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312533/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/wjY0jd8V/V/543529/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/wjY0jd8V/V/543530/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/wjY0jd8V/V/543531/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "130 Fordham Court",
+      "plan": "Furman",
+      "id": "697125",
+      "address": "130 Fordham Court, Fort Mill, South Carolina",
+      "price": "$558,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-5 ba",
+      "sqft": "2,803+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424003/13",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/furman-697125",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424019/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424013/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1HCre94a/V/423993/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424044/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424036/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407395/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407396/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407397/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407398/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407399/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423998/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424035/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424018/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424003/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424010/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423997/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423994/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424009/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424017/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424000/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424001/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424029/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424012/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424027/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424024/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424020/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424019/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424013/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1HCre94a/V/423993/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424044/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424036/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407395/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407396/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407397/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407398/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aiwDBW7u/V/407399/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423998/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424035/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424018/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424003/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424010/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423997/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/423994/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424009/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424017/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424000/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424001/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424029/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424012/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424027/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424024/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424020/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8lE5Pda/V/424019/13"
+      ]
+    },
+    {
+      "name": "130 Fordham Court",
+      "plan": "Wingate",
+      "id": "697127",
+      "address": "130 Fordham Court, Fort Mill, South Carolina",
+      "price": "$563,990",
+      "beds": "4-7 bd",
+      "baths": "2.5-5 ba",
+      "sqft": "2,821+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Bz4OGOgs/V/324260/13",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/wingate-697127",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": []
+    },
+    {
+      "name": "130 Fordham Court",
+      "plan": "Riverton",
+      "id": "697126",
+      "address": "130 Fordham Court, Fort Mill, South Carolina",
+      "price": "$593,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-5 ba",
+      "sqft": "3,135+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591692/13",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/riverton-697126",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591666/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591668/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591669/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591670/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591671/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591672/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591675/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591673/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591674/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407400/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407401/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407402/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407403/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407404/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591678/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591689/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591690/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591692/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591693/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591691/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591648/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591646/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591651/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591650/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591652/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591654/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591649/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591656/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591658/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591660/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591663/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591661/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591664/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591665/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591666/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591668/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591669/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591670/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591671/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591672/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591675/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591673/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591674/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407400/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407401/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407402/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407403/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/s0tLw3oT/V/407404/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591678/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591689/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591690/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591692/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591693/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591691/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591648/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591646/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591651/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591650/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591652/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591654/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591649/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591656/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591658/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591660/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591663/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591661/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591664/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591665/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/wiUJziJn/V/591666/13"
+      ]
+    },
+    {
+      "name": "130 Fordham Court",
+      "plan": "Vanderbilt",
+      "id": "697128",
+      "address": "130 Fordham Court, Fort Mill, South Carolina",
+      "price": "$593,990",
+      "beds": "4-6 bd",
+      "baths": "2.5-4 ba",
+      "sqft": "3,205+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312533/13",
+      "url": "https://www.pulte.com/homes/south-carolina/fort-mill-indian-land/fort-mill/patterson-pond-211094/vanderbilt-697128",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312551/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/FslH4UiD/V/407384/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407386/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407387/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407388/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407389/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312557/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312534/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312545/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312533/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GzRzp6Sk/V/312541/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312547/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312544/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312548/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312537/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312538/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312549/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312550/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312551/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/FslH4UiD/V/407384/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407386/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407387/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407388/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yug6uES2/V/407389/1",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312557/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312534/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312545/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312533/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GzRzp6Sk/V/312541/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312547/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312544/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312548/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312537/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312538/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312549/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/fHm2DzQb/V/312550/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/vtb0GAYw/V/312551/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

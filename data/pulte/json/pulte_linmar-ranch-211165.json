@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-06-05T15:35:17.488316",
+  "name": "Linmar Ranch",
+  "status": null,
+  "url": "https://www.americanwesthomes.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165",
+  "price_from": "$501,990",
+  "address": "5257 Lynn Creek Ave, Las Vegas, Nevada 89139",
+  "phone": "(702) 830-7630",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe Residential Energy Services Network (RESNET) developed the Home Energy Rating System (HERS) Index, which is recognized by the EPA and U.S. Department of Energy. The HERS Index is based on a score of 100 for a typical code-built new home. The HERS score is reduced by one point for each percent of reduced energy consumption (i.e., the lower the score, the more energy-efficient the home). A HERS score of 85 is 15% more energy-efficient than a typical new home and 45% more energy-efficient than a typical existing home.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/r67zFozO/V/512896/13"
+  ],
+  "location": {
+    "latitude": 36.016035,
+    "longitude": -115.213082,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$501,990-$534,990",
+    "sqft_range": "1,710-2,317",
+    "bed_range": "3-5",
+    "bath_range": "2.5-3.0",
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stories",
+      "description": "New 1 & 2-story homes",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "7 Unique Home Designs",
+      "icon_url": null
+    },
+    {
+      "name": "Desirable Southwest",
+      "description": "Desirable Southwest Las Vegas location",
+      "icon_url": null
+    },
+    {
+      "name": "Easy access",
+      "description": "Easy access to several major employment corridors",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes shopping,",
+      "description": "Minutes to shopping, entertainment, outdoor recreation, and desirable schools",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 2 miles from the I-15",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "Proximity to the Blue Diamond Ranch Center and Town Square Las Vegas",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby parks",
+      "description": "Nearby parks and recreation",
+      "icon_url": null
+    },
+    {
+      "name": "Approx. miles",
+      "description": "Approx. 10 miles from Harry Reid International Airport",
+      "icon_url": null
+    },
+    {
+      "name": "Fiber network",
+      "description": "Fiber network that provides fast, reliable, multi-user Internet needed in homes today and in the future",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Avondale",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/avondale-696446",
+      "details": {
+        "price": "From $501,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,710 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/r67zFozO/V/512896/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Lovell",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/lovell-696451",
+      "details": {
+        "price": "From $509,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,843 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/cu1pzRUQ/V/503635/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Kaufman",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/kaufman-696453",
+      "details": {
+        "price": "From $524,990",
+        "beds": "3-4 bd",
+        "baths": "2.5-3 ba",
+        "half_baths": null,
+        "sqft": "2,118 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/0NFOgdgo/V/503634/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Whitney",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/whitney-696455",
+      "details": {
+        "price": "From $534,990",
+        "beds": "4-5 bd",
+        "baths": "2.5-3 ba",
+        "half_baths": null,
+        "sqft": "2,317 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/51cqXoHC/V/512895/13"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Avondale",
+      "id": "696446",
+      "address": null,
+      "price": "$501,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,710 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/r67zFozO/V/512896/13",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/avondale-696446",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Lovell",
+      "id": "696451",
+      "address": null,
+      "price": "$509,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,843 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/cu1pzRUQ/V/503635/13",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/lovell-696451",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Kaufman",
+      "id": "696453",
+      "address": null,
+      "price": "$524,990",
+      "beds": "3-4 bd",
+      "baths": "2.5-3 ba",
+      "sqft": "2,118 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/0NFOgdgo/V/503634/13",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/kaufman-696453",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Whitney",
+      "id": "696455",
+      "address": null,
+      "price": "$534,990",
+      "beds": "4-5 bd",
+      "baths": "2.5-3 ba",
+      "sqft": "2,317 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/51cqXoHC/V/512895/13",
+      "url": "https://www.pulte.com/homes/nevada/las-vegas/las-vegas/linmar-ranch-211165/whitney-696455",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

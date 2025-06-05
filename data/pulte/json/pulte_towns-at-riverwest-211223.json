@@ -1,0 +1,86 @@
+{
+  "timestamp": "2025-06-05T15:27:24.932018",
+  "name": "Towns at RiverWest",
+  "status": null,
+  "url": "https://www.pulte.com/homes/indiana/indianapolis/noblesville/towns-at-riverwest-211223",
+  "price_from": "$340,000",
+  "address": "7270 Selah Ln., Noblesville, Indiana 46062",
+  "phone": "(317) 799-9091",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/KBaBHFun/"
+  ],
+  "location": {
+    "latitude": 40.000417,
+    "longitude": -86.039861,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Stories",
+      "description": "2-Story Townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "Enhanced Features",
+      "description": "Enhanced Features Packages",
+      "icon_url": null
+    },
+    {
+      "name": "Steps Dining,",
+      "description": "Steps to Dining, Retail and Everyday Conveniences in the RiverWest Development",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Conner",
+      "description": "Minutes to Conner Prairie",
+      "icon_url": null
+    },
+    {
+      "name": "Proximity Downtown",
+      "description": "Proximity to Downtown Noblesville",
+      "icon_url": null
+    },
+    {
+      "name": "Close Amenities",
+      "description": "Close to Amenities in Fishers, Noblesville, Westfield and Carmel",
+      "icon_url": null
+    },
+    {
+      "name": "-15 Minutes",
+      "description": "10-15 Minutes to Every Commercial Hub in Hamilton County",
+      "icon_url": null
+    },
+    {
+      "name": "Near Clay",
+      "description": "Near to Clay Terrace and Hamilton Town Center",
+      "icon_url": null
+    },
+    {
+      "name": "Floor Plans",
+      "description": "Floorplans starting from 1,854+ sq. ft.",
+      "icon_url": null
+    },
+    {
+      "name": "Top Noblesville",
+      "description": "Top Noblesville School District",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

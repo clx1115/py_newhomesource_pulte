@@ -1,0 +1,642 @@
+{
+  "timestamp": "2025-06-03T17:57:40.767331",
+  "name": "65 Degrees",
+  "status": null,
+  "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921",
+  "price_from": "$689,990",
+  "address": "26502 NE 143rd Place, Duvall, Washington 98019",
+  "phone": "(425) 657-3746",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/tcVc2Q51/"
+  ],
+  "location": {
+    "latitude": 47.730726715278,
+    "longitude": -121.98371010194089,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$689,990-$769,990",
+    "sqft_range": "1,230-2,587",
+    "bed_range": "2-4",
+    "bath_range": "2.0-3.5",
+    "stories_range": "1-3",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Community open",
+      "description": "Community open space with walkways",
+      "icon_url": null
+    },
+    {
+      "name": "Community park",
+      "description": "Community park with rock wall and covered seating area",
+      "icon_url": null
+    },
+    {
+      "name": "Ample on-site",
+      "description": "Ample on-site parking for guests",
+      "icon_url": null
+    },
+    {
+      "name": "Walk restaurants",
+      "description": "Walk to the restaurants and brew pubs along Main Street",
+      "icon_url": null
+    },
+    {
+      "name": "Low maintenance",
+      "description": "Low maintenance living",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Residence I",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-i-694746",
+      "details": {
+        "price": "From $754,990",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,430 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402281/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/g3NLRqTO/V/402689/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/g3NLRqTO/V/402691/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/g3NLRqTO/V/402692/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence II",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-ii-695122",
+      "details": {
+        "price": "From $699,990",
+        "beds": "2 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,859 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gAQiOUlA/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/uyR1Oun3/V/402693/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/uyR1Oun3/V/402694/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/uyR1Oun3/V/402695/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence III",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-iii-695136",
+      "details": {
+        "price": "From $729,990",
+        "beds": "3-4 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "2,126+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3XO24TGy/V/401122/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/qgpSAfQb/V/563391/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/Akg0cU17/V/402697/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/Akg0cU17/V/402698/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence IV",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-iv-695137",
+      "details": {
+        "price": "From $729,990",
+        "beds": "2-3 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "1,934+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2aa9LLlt/V/582393/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/484UN3ts/V/563396/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/EEFvvIpv/V/402700/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/EEFvvIpv/V/402701/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence IX",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-ix-697380",
+      "details": {
+        "price": null,
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,250 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v3vFUzuo/V/401125/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/O8D9t5cw/V/558318/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence V",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-v-695138",
+      "details": {
+        "price": "From $744,990",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,272+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/CyNGxGgO/V/402281/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/JOccOJxR/V/402702/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/JOccOJxR/V/402703/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/JOccOJxR/V/402706/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence VI",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-vi-695139",
+      "details": {
+        "price": "From $689,990",
+        "beds": "2 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,835 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pHl7vQXe/V/402278/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/HDu1GkY7/V/402705/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/HDu1GkY7/V/402708/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/HDu1GkY7/V/402707/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence VII",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-vii-695140",
+      "details": {
+        "price": "From $719,990",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "1,971 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/dNvEcTtG/V/402279/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/C0kwaPFp/V/402710/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/C0kwaPFp/V/402709/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/C0kwaPFp/V/402711/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence VIII",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-viii-695141",
+      "details": {
+        "price": "From $769,990",
+        "beds": "2-3 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,587 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GTvIoF6m/V/401124/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/akhAU9zK/V/402713/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/akhAU9zK/V/402712/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/akhAU9zK/V/402714/13"
+        }
+      ]
+    },
+    {
+      "name": "Residence X",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-x-695142",
+      "details": {
+        "price": null,
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,230 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ov0ZUyaQ/V/402285/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/LpNBHKLP/V/402690/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence I",
+      "id": "694746",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$754,990",
+      "beds": "4 bd",
+      "baths": "3.5 ba",
+      "sqft": "2,430 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402281/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-i-694746",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yMNN5ieW/V/377930/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GxEwf0ps/V/386828/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402281/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402282/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/w2HMy6Gg/V/377964/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yMNN5ieW/V/377930/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GxEwf0ps/V/386828/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402281/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3SoP0HgY/V/402282/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/w2HMy6Gg/V/377964/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence II",
+      "id": "695122",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$699,990",
+      "beds": "2 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,859 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gAQiOUlA/",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-ii-695122",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mP45Hpic/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JNPVabic/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gAQiOUlA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/thaps7xB/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/33tBElUM/V/402277/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mP45Hpic/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/JNPVabic/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/gAQiOUlA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/thaps7xB/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/33tBElUM/V/402277/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence III",
+      "id": "695136",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$729,990",
+      "beds": "3-4 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "2,126+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3XO24TGy/V/401122/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-iii-695136",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571180/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571183/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/tchiHukI/V/571186/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571178/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571184/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/tchiHukI/V/571185/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571174/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3XO24TGy/V/401122/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571182/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571173/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571172/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571175/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571176/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571177/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571181/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571180/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571183/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/tchiHukI/V/571186/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571178/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571184/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/tchiHukI/V/571185/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571174/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3XO24TGy/V/401122/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571182/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571173/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571172/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571175/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571176/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571177/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/EnujpHgO/V/571181/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence IV",
+      "id": "695137",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$729,990",
+      "beds": "2-3 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "1,934+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2aa9LLlt/V/582393/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-iv-695137",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571198/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571191/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571203/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571189/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571201/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571200/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571188/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571190/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571194/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2aa9LLlt/V/582393/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571197/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571193/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571204/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571192/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571196/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571195/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571199/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571202/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571198/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571191/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571203/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571189/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571201/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571200/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571188/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571190/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571194/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2aa9LLlt/V/582393/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571197/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571193/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571204/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571192/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571196/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571195/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571199/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571202/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/1L39MUvg/V/571198/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence IX",
+      "id": "697380",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": null,
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,250 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v3vFUzuo/V/401125/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-ix-697380",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SUxHlCmT/V/477735/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v3vFUzuo/V/401125/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bQ0is0dA/V/508742/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/SUxHlCmT/V/477735/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v3vFUzuo/V/401125/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bQ0is0dA/V/508742/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence V",
+      "id": "695138",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$744,990",
+      "beds": "4 bd",
+      "baths": "3.5 ba",
+      "sqft": "2,272+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/CyNGxGgO/V/402281/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-v-695138",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PfYkMtoa/V/279432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/NEzr1EtW/V/271617/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/CyNGxGgO/V/402281/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/NEzr1EtW/V/271604/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PfYkMtoa/V/279432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/NEzr1EtW/V/271617/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/CyNGxGgO/V/402281/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/NEzr1EtW/V/271604/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PfYkMtoa/V/279432/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence VI",
+      "id": "695139",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$689,990",
+      "beds": "2 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,835 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pHl7vQXe/V/402278/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-vi-695139",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286090/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286085/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pHl7vQXe/V/402278/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286088/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/260005/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286090/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286085/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pHl7vQXe/V/402278/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/286088/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/t4YtKoNe/V/260005/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence VII",
+      "id": "695140",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$719,990",
+      "beds": "4 bd",
+      "baths": "3.5 ba",
+      "sqft": "1,971 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/dNvEcTtG/V/402279/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-vii-695140",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283807/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283776/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/dNvEcTtG/V/402279/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283816/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283804/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283807/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283776/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/dNvEcTtG/V/402279/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283816/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PMBm3XVS/V/283804/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence VIII",
+      "id": "695141",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": "$769,990",
+      "beds": "2-3 bd",
+      "baths": "3.5 ba",
+      "sqft": "2,587 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GTvIoF6m/V/401124/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-viii-695141",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/279433/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377926/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/279432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GTvIoF6m/V/401124/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377949/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377964/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/z3YF0x1h/V/279436/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/279433/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377926/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/279432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/GTvIoF6m/V/401124/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377949/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/l0chM5qY/V/377964/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/z3YF0x1h/V/279436/13"
+      ]
+    },
+    {
+      "name": "26502 NE 143rd Place",
+      "plan": "Residence X",
+      "id": "695142",
+      "address": "26502 NE 143rd Place, Duvall, Washington",
+      "price": null,
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,230 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ov0ZUyaQ/V/402285/13",
+      "url": "https://www.pulte.com/homes/washington/seattle/duvall/65-degrees-210921/residence-x-695142",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PSnCpSfd/V/286085/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ytS2xtZ2/V/386872/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ov0ZUyaQ/V/402285/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PSnCpSfd/V/35348/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PSnCpSfd/V/286085/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ytS2xtZ2/V/386872/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ov0ZUyaQ/V/402285/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PSnCpSfd/V/35348/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PSnCpSfd/V/286085/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

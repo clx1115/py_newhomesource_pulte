@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-06-05T13:03:25.680868",
+  "name": "Ashton Ridge Towns",
+  "status": null,
+  "url": "https://www.pulte.com/homes/illinois/chicago/batavia/ashton-ridge-towns-211461",
+  "price_from": "$399,990",
+  "address": "41 Weirich Way , Batavia, Illinois 60510",
+  "phone": "(224) 272-8600",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/fp4r5pLa/"
+  ],
+  "location": {
+    "latitude": 41.85232572000194,
+    "longitude": -88.32445301929812,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$399,990",
+    "sqft_range": "1,883",
+    "bed_range": "3-4",
+    "bath_range": "2.5-3.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Model Grand",
+      "description": "Model Grand Opening in Early 2025",
+      "icon_url": null
+    },
+    {
+      "name": "Located Highly",
+      "description": "Located in the Highly Rated Batavia School District",
+      "icon_url": null
+    },
+    {
+      "name": "Less Than",
+      "description": "Less Than 1/2 Mile to H C Storm Elementary School",
+      "icon_url": null
+    },
+    {
+      "name": "Less Than",
+      "description": "Less Than 1-Mile to Batavia High School",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "Townhomes From 1,800 Square Feet - Live Like Single Family Homes",
+      "icon_url": null
+    },
+    {
+      "name": "Desirable Location",
+      "description": "Desirable Location Within Batavia",
+      "icon_url": null
+    },
+    {
+      "name": "Walk Historic",
+      "description": "Walk to Historic Downtown Batavia with Unique Shops, Boutiques, Restaurants, Bars, Fitness Options, Salons and More",
+      "icon_url": null
+    },
+    {
+      "name": "Mile West",
+      "description": "1 Mile West of Shopping and Dining Along Randall Road",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Interstate",
+      "description": "5 Miles to Interstate 88",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Geneva",
+      "description": "2.5 Miles to the Geneva Metra Station",
+      "icon_url": null
+    },
+    {
+      "name": "Less Than",
+      "description": "Less Than 60 Minutes to O’Hare and Midway Airports",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Shopping,",
+      "description": "3 Miles to Shopping, Dining, and Entertainment in Historic Downtown Geneva",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Red",
+      "description": "3.5 Miles to Red Oak Nature Center Which Offers Trails, a Cave, Adventure Camps and More",
+      "icon_url": null
+    },
+    {
+      "name": "Less Than",
+      "description": "Less Than 1.5 Miles to the Batavia Park District Quarry Park",
+      "icon_url": null
+    },
+    {
+      "name": "Less Than",
+      "description": "Less Than 3 Miles to Eagle Brook Country Club",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Geneva",
+      "description": "3 Miles to Geneva Golf Club",
+      "icon_url": null
+    },
+    {
+      "name": "Mile Engstrom",
+      "description": "1 Mile to Engstrom Family Park with Playground, Zip Line, Baseball Diamond, Basketball Court, Soccer Field and Walking Paths",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Bowman",
+      "url": "https://www.pulte.com/homes/illinois/chicago/batavia/ashton-ridge-towns-211461/bowman-698482",
+      "details": {
+        "price": "From $399,990",
+        "beds": "3-4 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "1,883+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BbEimMjg/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/6Dql5eYA/V/665380/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/6Dql5eYA/V/665381/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "41 Weirich Way",
+      "plan": "Bowman",
+      "id": "698482",
+      "address": "41 Weirich Way , Batavia, Illinois",
+      "price": "$399,990",
+      "beds": "3-4 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "1,883+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BbEimMjg/",
+      "url": "https://www.pulte.com/homes/illinois/chicago/batavia/ashton-ridge-towns-211461/bowman-698482",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/FGrBtx1L/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vdXrMGKd/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/u72paxat/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Th4Nbcwo/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/cO0YyJ4y/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pKHHF7EE/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/nUNN1nQ7/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dsJeyA0C/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/bWVr9CA9/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/f1dFbfTX/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XYF4Osen/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Tmvydc8C/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BbEimMjg/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UmPyok19/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0wJOgKVF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0mWmIZLe/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1GlWKCxS/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MVnhwghp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/qwffOOLZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/E5MWKEbE/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/CfmvZILy/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XHOS1bk1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/nAeAB9rc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mg83wbXl/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/zGBLPHPZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/FGrBtx1L/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/vdXrMGKd/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/u72paxat/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Th4Nbcwo/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/cO0YyJ4y/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pKHHF7EE/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/nUNN1nQ7/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dsJeyA0C/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/bWVr9CA9/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/f1dFbfTX/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XYF4Osen/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Tmvydc8C/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BbEimMjg/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/UmPyok19/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0wJOgKVF/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/0mWmIZLe/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1GlWKCxS/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/MVnhwghp/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/qwffOOLZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/E5MWKEbE/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/CfmvZILy/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XHOS1bk1/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/nAeAB9rc/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/mg83wbXl/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/zGBLPHPZ/"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

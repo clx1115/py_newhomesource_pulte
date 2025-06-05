@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-06-05T15:42:37.360245",
+  "name": "The Flats at Tysons",
+  "status": null,
+  "url": "https://www.pulte.com/homes/virginia/northern-virginia/vienna/the-flats-at-tysons-211374",
+  "price_from": null,
+  "address": "Gallows Rd and Gallows Branch Rd, Vienna, Virginia 22182",
+  "phone": "(703) 686-8400",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/bg9Q0VSM/V/588986/13"
+  ],
+  "location": {
+    "latitude": 38.910941,
+    "longitude": -77.223862,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Home Designs",
+      "description": "The Flats at Tysons is truly a live, work and play destination. Walk to upscale shopping at Tysons Corner Center, the largest shopping mall in the state, home to Nordstrom, Apple, Macy's and more. Adjacent to the mall is Tysons Galleria Mall with high-end fashion designers including Gucci, Louis Vuitton, Cartier, Chanel and a Ritz-Carlton Hotel. There are also several shopping centers nearby such as HomeGoods, PetSmart, REI as well as Whole Foods, Harris Teeter and more!",
+      "icon_url": null
+    },
+    {
+      "name": "Play quick",
+      "description": "Play a quick 9 holes of golf at Jefferson District Golf Course located 15 minutes away",
+      "icon_url": null
+    },
+    {
+      "name": "membership Westwood",
+      "description": "A membership at Westwood Country Club in Vienna offers a premier championship 18-hole golf course, tennis courts, Olympic size swimming pool and a 58,000 sq ft clubhouse",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Wolf",
+      "description": "10 Minutes to Wolf Trap National Park for the Performing Arts - Experience live performances, learn about music and theatre and explore nature",
+      "icon_url": null
+    },
+    {
+      "name": "Onsite Urban",
+      "description": "Onsite Urban Park with games, dining tables, benches, lounge chairs, turf area and a fireplace",
+      "icon_url": null
+    },
+    {
+      "name": "Pocket park",
+      "description": "Pocket park featuring pet waste station, turf area with movable lounge chairs, benches and art",
+      "icon_url": null
+    },
+    {
+      "name": "Residents Flats",
+      "description": "Residents of The Flats at Tysons will enjoy close access to 4 metro stations which will give them easy access to cultural events in downtown DC. Head to Great Falls National Park, less than 20 minutes away. In the area, head to Freedom Hill Park, Tysons Tales Park or Jones Branch Rec Fields or head out to Wolftrap Stream Valley Park.",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

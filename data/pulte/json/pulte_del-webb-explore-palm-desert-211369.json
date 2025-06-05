@@ -1,0 +1,488 @@
+{
+  "timestamp": "2025-06-03T18:59:00.783375",
+  "name": "Del Webb Explore Palm Desert",
+  "status": null,
+  "url": "https://www.delwebb.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369",
+  "price_from": "$507,990",
+  "address": "Gerald Ford Drive and Portola Road, Palm Desert, California 92211",
+  "phone": "(760) 756-4343",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/lXAy8u51/",
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/ufAX8lOx/"
+  ],
+  "location": {
+    "latitude": 33.781817,
+    "longitude": -116.37576,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$507,990-$829,990",
+    "sqft_range": "1,324-3,051",
+    "bed_range": "2-4",
+    "bath_range": "2.0-4.5",
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pickleball courts",
+      "description": "Pickleball courts",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce ball",
+      "description": "Bocce ball courts",
+      "icon_url": null
+    },
+    {
+      "name": "Walking paths",
+      "description": "Walking paths and trails throughout the community",
+      "icon_url": null
+    },
+    {
+      "name": "Outdoor terrace",
+      "description": "Outdoor terrace with fireplaces",
+      "icon_url": null
+    },
+    {
+      "name": "Event wellness",
+      "description": "Event and wellness activity lawn space",
+      "icon_url": null
+    },
+    {
+      "name": "Outdoor event",
+      "description": "Outdoor event lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Putting green",
+      "description": "Putting green",
+      "icon_url": null
+    },
+    {
+      "name": "Cornhole",
+      "description": "Cornhole",
+      "icon_url": null
+    },
+    {
+      "name": "Close proximity",
+      "description": "Close proximity to shopping, dining and golf",
+      "icon_url": null
+    },
+    {
+      "name": "Community pool",
+      "description": "Community pool",
+      "icon_url": null
+    },
+    {
+      "name": "Relaxing jacuzzi",
+      "description": "Relaxing jacuzzi",
+      "icon_url": null
+    },
+    {
+      "name": "State-of-the art",
+      "description": "State-of-the art fitness center",
+      "icon_url": null
+    },
+    {
+      "name": "Indoor great",
+      "description": "Indoor great room with fireplace",
+      "icon_url": null
+    },
+    {
+      "name": "Multi-purpose rooms",
+      "description": "Multi-purpose rooms",
+      "icon_url": null
+    },
+    {
+      "name": "Full-service catering",
+      "description": "Full-service catering kitchen",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Audrey",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/audrey-698510",
+      "details": {
+        "price": "From $507,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,324 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/5esRvHwI/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Bayley",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bayley-698511",
+      "details": {
+        "price": "From $520,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,366 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/OLeiH32V/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Kinsey",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/kinsey-698512",
+      "details": {
+        "price": "From $522,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,375 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1B7eZ1zf/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Brownstone",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/brownstone-698515",
+      "details": {
+        "price": "From $554,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,580+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1Bb8KAZC/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Silver Creek",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/silver-creek-698516",
+      "details": {
+        "price": "From $587,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,732 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XgcNl3cZ/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Bellwood",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bellwood-698517",
+      "details": {
+        "price": "From $614,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,865 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pQRZzcIk/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Bellwood II",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bellwood-ii-698518",
+      "details": {
+        "price": "From $694,990",
+        "beds": "3-4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,405 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/np4l4DaJ/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Auburn",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/auburn-698522",
+      "details": {
+        "price": "From $694,990",
+        "beds": "3 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "2,235 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/EeLmN2FS/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Daybreak",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/daybreak-698525",
+      "details": {
+        "price": "From $722,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,350 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GfBWsiV5/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prelude",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/prelude-698526",
+      "details": {
+        "price": "From $734,990",
+        "beds": "3 bd",
+        "baths": "2.5-3 ba",
+        "half_baths": null,
+        "sqft": "2,401 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XVryDcWN/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prelude II",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/prelude-ii-698527",
+      "details": {
+        "price": "From $829,990",
+        "beds": "4 bd",
+        "baths": "2.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "3,051 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Di496Mxr/"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Audrey",
+      "id": "698510",
+      "address": null,
+      "price": "$507,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,324 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/5esRvHwI/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/audrey-698510",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Bayley",
+      "id": "698511",
+      "address": null,
+      "price": "$520,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,366 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/OLeiH32V/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bayley-698511",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Kinsey",
+      "id": "698512",
+      "address": null,
+      "price": "$522,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,375 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1B7eZ1zf/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/kinsey-698512",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Brownstone",
+      "id": "698515",
+      "address": null,
+      "price": "$554,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,580+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/1Bb8KAZC/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/brownstone-698515",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Silver Creek",
+      "id": "698516",
+      "address": null,
+      "price": "$587,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,732 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XgcNl3cZ/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/silver-creek-698516",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Bellwood",
+      "id": "698517",
+      "address": null,
+      "price": "$614,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,865 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/pQRZzcIk/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bellwood-698517",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Bellwood II",
+      "id": "698518",
+      "address": null,
+      "price": "$694,990",
+      "beds": "3-4 bd",
+      "baths": "3 ba",
+      "sqft": "2,405 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/np4l4DaJ/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/bellwood-ii-698518",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Auburn",
+      "id": "698522",
+      "address": null,
+      "price": "$694,990",
+      "beds": "3 bd",
+      "baths": "2-3 ba",
+      "sqft": "2,235 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/EeLmN2FS/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/auburn-698522",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Daybreak",
+      "id": "698525",
+      "address": null,
+      "price": "$722,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "2,350 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GfBWsiV5/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/daybreak-698525",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Prelude",
+      "id": "698526",
+      "address": null,
+      "price": "$734,990",
+      "beds": "3 bd",
+      "baths": "2.5-3 ba",
+      "sqft": "2,401 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/XVryDcWN/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/prelude-698526",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Prelude II",
+      "id": "698527",
+      "address": null,
+      "price": "$829,990",
+      "beds": "4 bd",
+      "baths": "2.5-4.5 ba",
+      "sqft": "3,051 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Di496Mxr/",
+      "url": "https://www.pulte.com/homes/california/palm-springs/palm-desert/del-webb-explore-palm-desert-211369/prelude-ii-698527",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

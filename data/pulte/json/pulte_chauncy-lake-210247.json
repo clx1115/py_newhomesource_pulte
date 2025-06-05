@@ -1,0 +1,441 @@
+{
+  "timestamp": "2025-06-04T17:33:27.786536",
+  "name": "Chauncy Lake",
+  "status": null,
+  "url": "https://www.delwebb.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247",
+  "price_from": "$388,995",
+  "address": "6106 Peters Farm Way, Westborough, Massachusetts 01581",
+  "phone": "(508) 252-8852",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/DEIPqpFh/V/371149/13",
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/8U36snR8/V/612739/1"
+  ],
+  "location": {
+    "latitude": 42.3003466,
+    "longitude": -71.6061275,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$388,995-$554,995",
+    "sqft_range": "972-1,512",
+    "bed_range": "1-2",
+    "bath_range": "1.0-2.0",
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Fiber network",
+      "description": "Fiber network provides up to Gigabit Internet speeds",
+      "icon_url": null
+    },
+    {
+      "name": "Flex rooms",
+      "description": "Flex rooms to customize",
+      "icon_url": null
+    },
+    {
+      "name": "In-unit washer",
+      "description": "In-unit washer and dryer",
+      "icon_url": null
+    },
+    {
+      "name": "Elevator access",
+      "description": "Elevator access in all buildings",
+      "icon_url": null
+    },
+    {
+      "name": "Pet friendly",
+      "description": "Pet friendly",
+      "icon_url": null
+    },
+    {
+      "name": "Energy efficient",
+      "description": "Energy efficient appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Underground Parking",
+      "description": "Underground Parking Available",
+      "icon_url": null
+    },
+    {
+      "name": "Electric Vehicle",
+      "description": "Electric Vehicle Charging Station",
+      "icon_url": null
+    },
+    {
+      "name": "Onsite Lifestyle",
+      "description": "Onsite Lifestyle Director",
+      "icon_url": null
+    },
+    {
+      "name": "Banquet Sized",
+      "description": "Banquet Sized Great Room",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Center",
+      "description": "Fitness Center",
+      "icon_url": null
+    },
+    {
+      "name": "Movement Studio",
+      "description": "Movement Studio",
+      "icon_url": null
+    },
+    {
+      "name": "Game Room",
+      "description": "Game Room",
+      "icon_url": null
+    },
+    {
+      "name": "Club Room",
+      "description": "Club Room",
+      "icon_url": null
+    },
+    {
+      "name": "Crafting Room",
+      "description": "Crafting Room",
+      "icon_url": null
+    },
+    {
+      "name": "Kitchen Warming",
+      "description": "Kitchen with Warming Area",
+      "icon_url": null
+    },
+    {
+      "name": "Cafe",
+      "description": "Cafe",
+      "icon_url": null
+    },
+    {
+      "name": "Sun Porch",
+      "description": "Sun Porch",
+      "icon_url": null
+    },
+    {
+      "name": "BBQ Grills",
+      "description": "BBQ Grills",
+      "icon_url": null
+    },
+    {
+      "name": "Sparkling Pool",
+      "description": "Sparkling Pool",
+      "icon_url": null
+    },
+    {
+      "name": "His Her",
+      "description": "His and Her Locker Rooms",
+      "icon_url": null
+    },
+    {
+      "name": "Pickle Ball",
+      "description": "Pickle Ball Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce Ball",
+      "description": "Bocce Ball Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis Courts",
+      "description": "Tennis Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Onsite Lifestyle",
+      "description": "Onsite Lifestyle Director",
+      "icon_url": null
+    },
+    {
+      "name": "Planned Social",
+      "description": "Planned Social Events",
+      "icon_url": null
+    },
+    {
+      "name": "Variety Clubs",
+      "description": "A Variety of Clubs and Special Interest Groups",
+      "icon_url": null
+    },
+    {
+      "name": "Organized Workshops",
+      "description": "Organized Workshops",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Walking",
+      "description": "Miles of Walking Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Planned Road",
+      "description": "Planned Road Trips",
+      "icon_url": null
+    },
+    {
+      "name": "Water Aerobic",
+      "description": "Water Aerobic Classes",
+      "icon_url": null
+    },
+    {
+      "name": "Card Games",
+      "description": "Card Games",
+      "icon_url": null
+    },
+    {
+      "name": "BBQ Clubhouse",
+      "description": "BBQ on the Clubhouse Patio",
+      "icon_url": null
+    },
+    {
+      "name": "Lake Chauncy",
+      "description": "Lake Chauncy Recreation Center",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Jameson",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/jameson-696320",
+      "details": {
+        "price": "From $388,995",
+        "beds": "1 bd",
+        "baths": "1 ba",
+        "half_baths": null,
+        "sqft": "972 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3yOVGm44/V/612950/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Magnolia",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/magnolia-696322",
+      "details": {
+        "price": "From $420,995",
+        "beds": "1 bd",
+        "baths": "1 ba",
+        "half_baths": null,
+        "sqft": "1,030 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4tjvkoLk/V/612738/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Claremont",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/claremont-696316",
+      "details": {
+        "price": "From $421,995",
+        "beds": "1 bd",
+        "baths": "1 ba",
+        "half_baths": null,
+        "sqft": "1,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pp8U8fO1/V/466414/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Franklin",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/franklin-696317",
+      "details": {
+        "price": "From $492,995",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,166 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HAUf8s83/V/349455/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/hayden-696318",
+      "details": {
+        "price": "From $529,995",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,375 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/i4be9AWD/V/612679/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Lincoln",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/lincoln-696321",
+      "details": {
+        "price": "From $551,995",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,496 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/oq1uKB3Y/V/468244/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Ivywood",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/ivywood-696319",
+      "details": {
+        "price": "From $554,995",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,512 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/uRKrxpow/V/612812/1"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Jameson",
+      "id": "696320",
+      "address": null,
+      "price": "$388,995",
+      "beds": "1 bd",
+      "baths": "1 ba",
+      "sqft": "972 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/3yOVGm44/V/612950/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/jameson-696320",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Magnolia",
+      "id": "696322",
+      "address": null,
+      "price": "$420,995",
+      "beds": "1 bd",
+      "baths": "1 ba",
+      "sqft": "1,030 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4tjvkoLk/V/612738/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/magnolia-696322",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Claremont",
+      "id": "696316",
+      "address": null,
+      "price": "$421,995",
+      "beds": "1 bd",
+      "baths": "1 ba",
+      "sqft": "1,045 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/pp8U8fO1/V/466414/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/claremont-696316",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Franklin",
+      "id": "696317",
+      "address": null,
+      "price": "$492,995",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,166 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HAUf8s83/V/349455/13",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/franklin-696317",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Hayden",
+      "id": "696318",
+      "address": null,
+      "price": "$529,995",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,375 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/i4be9AWD/V/612679/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/hayden-696318",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Lincoln",
+      "id": "696321",
+      "address": null,
+      "price": "$551,995",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,496 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/oq1uKB3Y/V/468244/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/lincoln-696321",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Ivywood",
+      "id": "696319",
+      "address": null,
+      "price": "$554,995",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,512 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/uRKrxpow/V/612812/1",
+      "url": "https://www.pulte.com/homes/massachusetts/greater-boston-area/westborough/chauncy-lake-210247/ivywood-696319",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

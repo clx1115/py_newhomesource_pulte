@@ -1,0 +1,166 @@
+{
+  "timestamp": "2025-06-03T16:18:20.390275",
+  "name": "Sonoma Oaks",
+  "status": null,
+  "url": "https://www.pulte.com/homes/florida/naples/naples/sonoma-oaks-210890",
+  "price_from": "$475,000",
+  "address": "4397 Sonoma Oaks Circle, Naples, Florida 34119",
+  "phone": "(239) 323-7170",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/Nmndcj1L/"
+  ],
+  "location": {
+    "latitude": 26.249134,
+    "longitude": -81.690774,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Less than",
+      "description": "Less than 10 minutes to entertainment like Golisano Childrens Museum of Naples and Sun-N-Fun Lagoon",
+      "icon_url": null
+    },
+    {
+      "name": "Close Naples",
+      "description": "Close to Naples beaches, regularly included on the list of Top 10 Beaches in Florida by The Travel Channel",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 15 minutes to Mercato featuring shopping and dining",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 20 minutes to the upscale shopping opportunities at Waterside Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Enjoy Arts",
+      "description": "Enjoy the Arts at Artis-Naples, less than 20 minutes away",
+      "icon_url": null
+    },
+    {
+      "name": "Shop day",
+      "description": "Shop the day away on 5th Ave and enjoy Downtown Naples, about 30 minutes away",
+      "icon_url": null
+    },
+    {
+      "name": "Take kids",
+      "description": "Take the kids to explore their wild side at the Naples Zoo at Caribbean Gardens, 25 minutes away",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 5 minutes to everyday conveniences like Winn-Dixie and Publix",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "Less than 5 minutes to Founders Square featuring: Outback, Tacos & Tequila, South Street, Fuji, Skillets, Slicers Hoagies, Crisp & Greens, and I Love Mac & Cheese",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 5 minutes to Cameron Commons Featuring: Starbucks, The Warehouse Cuisine & Cocktails, Culver's, Taco Bell, NYPP New York Pizza, and Tropical Smoothie Cafe",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 10 minutes to Logan Landings featuing: Oak & Stone, First Watch, Off The Bone, Thai Udon Café, Brooks Grill & Tavern, and Felipe's Mexican Taqueria",
+      "icon_url": null
+    },
+    {
+      "name": "miles North",
+      "description": "6 miles to North Collier Reginal Park",
+      "icon_url": null
+    },
+    {
+      "name": "miles Big",
+      "description": "10 miles to Big Corkscrew Island Regional Park",
+      "icon_url": null
+    },
+    {
+      "name": "miles Vineyard",
+      "description": "3.5 miles to Vineyard Community Park",
+      "icon_url": null
+    },
+    {
+      "name": "new construction",
+      "description": "114 new construction townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "CDD",
+      "description": "No CDD",
+      "icon_url": null
+    },
+    {
+      "name": "Neighborhood pool",
+      "description": "Neighborhood pool and cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Outdoor BBQ",
+      "description": "Outdoor BBQ Grill",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Conveniently located",
+      "description": "Conveniently located in North Naples, off Collier Blvd and Vanderbilt Beach Rd",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 5 minutes to everyday conveniences like Winn-Dixie and Publix",
+      "icon_url": null
+    },
+    {
+      "name": "minutes Target",
+      "description": "10 minutes to Target and Walmart",
+      "icon_url": null
+    },
+    {
+      "name": "Close A-rated",
+      "description": "Close to A-rated Collier County Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Florida Green",
+      "description": "Florida Green Building Coalition (FGBC) 2023 Builder of the Year for the most certified single-family homes",
+      "icon_url": null
+    },
+    {
+      "name": "Play round",
+      "description": "Play a round of golf at the many stunning golf course nearby including: Valencia Golf & Country Club or ArrowHead Golf Club,",
+      "icon_url": null
+    },
+    {
+      "name": "Or, become",
+      "description": "Or, become a member of a local Golf Club and enjoy the stunning greens Naples, Florida is known for",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

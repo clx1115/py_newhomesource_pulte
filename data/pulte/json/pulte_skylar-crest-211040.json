@@ -1,0 +1,317 @@
+{
+  "timestamp": "2025-06-03T18:34:40.459712",
+  "name": "Skylar Crest",
+  "status": null,
+  "url": "https://www.pulte.com/homes/florida/orlando/sanford/skylar-crest-211040",
+  "price_from": "$351,990",
+  "address": "3234 Pondside Way, Sanford, Florida 32773",
+  "phone": "(407) 863-3354",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/hrXmfFn0/"
+  ],
+  "location": {
+    "latitude": 28.758702,
+    "longitude": -81.2289,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$351,990-$383,990",
+    "sqft_range": "1,699-1,782",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Minutes Lake",
+      "description": "15 Minutes to Lake Mary’s Employment Corridor",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Distance",
+      "description": "Walking Distance to the Galileo School",
+      "icon_url": null
+    },
+    {
+      "name": "Highly Rated",
+      "description": "Highly Rated Public and Private Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Sanford",
+      "description": "Minutes to Sanford RiverWalk & Marina",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Orlando,",
+      "description": "Convenient to Orlando, Daytona, and the Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "Easy Access",
+      "description": "Easy Access to Lakes, Springs, Trails, and Parks",
+      "icon_url": null
+    },
+    {
+      "name": "Conveniently Located",
+      "description": "Conveniently Located Minutes away from Downtown Lake Mary",
+      "icon_url": null
+    },
+    {
+      "name": "Located Near",
+      "description": "Located Near Shopping, Dining, Entertainment, and Outdoor Recreations",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Historic",
+      "description": "Minutes to Historic Downtown Sanford & RiverWalk (Convenient to Restaurants, Breweries, Concert Venues, Shopping and Family Friendly Entertainment)",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Central",
+      "description": "10-Miles from Central Florida Zoo & Botanical Gardens",
+      "icon_url": null
+    },
+    {
+      "name": "Award Winning",
+      "description": "Award Winning Restaurants & Weekly Downtown Events",
+      "icon_url": null
+    },
+    {
+      "name": "New Construction",
+      "description": "New Construction Townhomes in Sanford",
+      "icon_url": null
+    },
+    {
+      "name": "CDD Low",
+      "description": "No CDD and Low HOA",
+      "icon_url": null
+    },
+    {
+      "name": "On-site Pool",
+      "description": "On-site Pool and Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Miles 417",
+      "description": "3 Miles from 417",
+      "icon_url": null
+    },
+    {
+      "name": "Highly Rated",
+      "description": "Highly Rated Public and Private Schools",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Orlando",
+      "description": "2-Miles to Orlando Sanford International Airport",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Distance",
+      "description": "Walking Distance to the Galileo School",
+      "icon_url": null
+    },
+    {
+      "name": "High Speed",
+      "description": "High Speed Internet Included",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Orlando,",
+      "description": "Convenient to Orlando, Daytona, and the Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Boombah",
+      "description": "2-Miles to Boombah Sports Complex",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Lake",
+      "description": "2-Miles to Lake Jesup Conservation Area",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Lake",
+      "description": "2-Miles from Lake Jesup Conservation Area",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Spring",
+      "description": "Minutes to Spring Hammock Preserve & Florida National Scenic Trail",
+      "icon_url": null
+    },
+    {
+      "name": "On-site Pool",
+      "description": "On-site Pool and Playground",
+      "icon_url": null
+    },
+    {
+      "name": "CDD Low",
+      "description": "No CDD and Low HOA",
+      "icon_url": null
+    },
+    {
+      "name": "High Speed",
+      "description": "High Speed Internet Included",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Springdale",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/skylar-crest-211040/springdale-697916",
+      "details": {
+        "price": "From $351,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,699 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605858/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/bsM8UBND/V/406880/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/bsM8UBND/V/406879/13"
+        }
+      ]
+    },
+    {
+      "name": "Marigold",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/skylar-crest-211040/marigold-697915",
+      "details": {
+        "price": "From $383,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,782 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605857/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/AJdE0ysK/V/532850/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/AJdE0ysK/V/532849/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "3234 Pondside Way",
+      "plan": "Springdale",
+      "id": "697916",
+      "address": "3234 Pondside Way, Sanford, Florida",
+      "price": "$351,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,699 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605858/13",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/skylar-crest-211040/springdale-697916",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493748/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493755/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605857/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/rcp9HdiY/V/605855/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605856/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Zilye99v/V/681400/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493744/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493740/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605858/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493739/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493741/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493743/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493742/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493749/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493745/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493750/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493748/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493755/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605857/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/rcp9HdiY/V/605855/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605856/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Zilye99v/V/681400/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493744/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493740/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/bJM4GcEr/V/605858/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493739/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493741/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493743/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493742/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493749/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493745/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493750/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/7FSjwVFG/V/493748/13"
+      ]
+    },
+    {
+      "name": "3234 Pondside Way",
+      "plan": "Marigold",
+      "id": "697915",
+      "address": "3234 Pondside Way, Sanford, Florida",
+      "price": "$383,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,782 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605857/13",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/skylar-crest-211040/marigold-697915",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651416/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605855/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605856/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605858/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ibu27YTa/V/681399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8mGLnVQV/V/651480/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651414/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605857/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651411/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651412/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651413/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651418/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651415/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651417/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651416/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605855/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605856/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605858/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Ibu27YTa/V/681399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8mGLnVQV/V/651480/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651414/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/PWPZjD0b/V/605857/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651411/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651412/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651413/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651418/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651415/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651417/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xmK5jGqn/V/651416/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

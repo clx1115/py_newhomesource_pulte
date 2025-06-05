@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-06-05T13:02:45.528310",
+  "name": "Emerson Oaks",
+  "status": null,
+  "url": "https://www.divosta.com/homes/florida/treasure-coast/vero-beach/emerson-oaks-211496",
+  "price_from": null,
+  "address": "Off of 43rd Ave SW and 13th St SW, Vero Beach, Florida 32968",
+  "phone": "(772) 356-2600",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/5JD5ZNPa/V/687518/13"
+  ],
+  "location": {
+    "latitude": 27.57905389108286,
+    "longitude": -80.43364537766561,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Home Designs",
+      "description": "Gated New Home Community",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Center",
+      "description": "Fitness Center",
+      "icon_url": null
+    },
+    {
+      "name": "Resort-Style Pool",
+      "description": "Resort-Style Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Clubhouse",
+      "description": "Clubhouse",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball Courts",
+      "description": "Pickleball Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "New Construction Community of 171 Homes",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Beaches",
+      "description": "Nearby Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Vero",
+      "description": "20 Minutes from the Vero Beach Outlets",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Vero",
+      "description": "12 Minutes from the Vero Beach Regional Airport",
+      "icon_url": null
+    },
+    {
+      "name": "Floor Plans",
+      "description": "Consumer-Inspired Floor Plans",
+      "icon_url": null
+    },
+    {
+      "name": "Industry-leading 10-year",
+      "description": "Industry-leading 10-year limited structural new home warranty.",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

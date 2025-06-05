@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-06-05T11:01:21.660314",
+  "name": "Holbrook",
+  "status": null,
+  "url": "https://www.pulte.com/homes/minnesota/the-twin-cities/waconia/holbrook-211559",
+  "price_from": null,
+  "address": "Little Avenue, Waconia, Minnesota 55387",
+  "phone": "(952) 234-3700",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/n29PW0Qf/"
+  ],
+  "location": {
+    "latitude": 44.822273,
+    "longitude": -93.763418,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Home Designs",
+      "description": "151 Available Single Family Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Starting $400's",
+      "description": "Starting in the $400's",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "Home designs starting at 1,865 square feet",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "50' Wide Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Close Waconia",
+      "description": "Close to Waconia Public Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 2 miles from downtown Waconia",
+      "icon_url": null
+    },
+    {
+      "name": "minutes downtown",
+      "description": "30 minutes to downtown Minneapolis",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

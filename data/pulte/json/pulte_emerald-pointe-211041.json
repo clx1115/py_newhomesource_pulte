@@ -1,0 +1,310 @@
+{
+  "timestamp": "2025-06-05T02:03:42.194852",
+  "name": "Emerald Pointe",
+  "status": null,
+  "url": "https://www.pulte.com/homes/florida/orlando/sanford/emerald-pointe-211041",
+  "price_from": "$351,990",
+  "address": "372 Beryl Cove, Sanford, Florida 32771",
+  "phone": "(407) 863-8085",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/OjS5uj9Q/V/405586/1"
+  ],
+  "location": {
+    "latitude": 28.816764,
+    "longitude": -81.307129,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$351,990-$393,990",
+    "sqft_range": "1,699-1,782",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Historic Downtown",
+      "description": "Historic Downtown Sanford - Convenient to Local Restaurants & Breweries",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Seminole",
+      "description": "2-Miles from Seminole Town Center",
+      "icon_url": null
+    },
+    {
+      "name": "-minute drive",
+      "description": "5-minute drive to the Historic Downtown area (Convenient to Restaurants, Breweries, Concert Venues, Shopping and Family Friendly Entertainment)",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Lake",
+      "description": "2-Miles from Lake Monroe & Sanford RiverWalk",
+      "icon_url": null
+    },
+    {
+      "name": "Within walking",
+      "description": "Within walking distance (1/2 mile) to the Sandford SunRail Station",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Seminole",
+      "description": "2-Miles from Seminole Town Center",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Central",
+      "description": "2-Miles from Central Florida Zoo & Botanical Gardens",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes Orlando",
+      "description": "15-minutes from Orlando Sanford International Airport",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes Downtown",
+      "description": "15-minutes from Downtown Lake Mary",
+      "icon_url": null
+    },
+    {
+      "name": "New Construction",
+      "description": "New Construction Townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "Family-Friendly Amenities",
+      "description": "Family-Friendly Amenities Onsite",
+      "icon_url": null
+    },
+    {
+      "name": "Highly Rated",
+      "description": "Highly Rated Seminole County Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Gig High-Speed",
+      "description": "1 Gig of High-Speed Internet Included in the HOA Fees",
+      "icon_url": null
+    },
+    {
+      "name": "-miles I-4,",
+      "description": "2-miles of I-4, SR 417, and Downtown Sanford",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes Orlando",
+      "description": "15-minutes from Orlando Sanford International Airport",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes Downtown",
+      "description": "30-minutes from Downtown Orlando",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes Lake",
+      "description": "15-minutes from Lake Mary",
+      "icon_url": null
+    },
+    {
+      "name": "Near Boat",
+      "description": "Near Boat Ramps that Access Lake Monroe",
+      "icon_url": null
+    },
+    {
+      "name": "Near Sanford",
+      "description": "Near Sanford RiverWalk & Marina",
+      "icon_url": null
+    },
+    {
+      "name": "-miles Fort",
+      "description": "2-miles from Fort Mellon Park",
+      "icon_url": null
+    },
+    {
+      "name": "Near Boat",
+      "description": "Near Boat Ramps that Access Lake Monroe",
+      "icon_url": null
+    },
+    {
+      "name": "-minutes UCF/Research",
+      "description": "30-minutes from UCF/Research Park",
+      "icon_url": null
+    },
+    {
+      "name": "-Miles Seminole",
+      "description": "6-Miles from Seminole County Sports Complex",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pool",
+      "description": "Community Pool & Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Children's Playground",
+      "description": "Children's Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Gig High-Speed",
+      "description": "1 Gig of High-Speed Internet Included in the HOA Fees",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Springdale",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/emerald-pointe-211041/springdale-696950",
+      "details": {
+        "price": "From $351,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,699 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543397/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/ELszkIzg/V/532852/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/ELszkIzg/V/532851/13"
+        }
+      ]
+    },
+    {
+      "name": "Marigold",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/emerald-pointe-211041/marigold-696951",
+      "details": {
+        "price": "From $393,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,782 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543396/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/wSTWImpn/V/532850/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/wSTWImpn/V/532849/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": "372 Beryl Cove",
+      "plan": "Springdale",
+      "id": "696950",
+      "address": "372 Beryl Cove, Sanford, Florida",
+      "price": "$351,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,699 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543397/13",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/emerald-pointe-211041/springdale-696950",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543396/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4Gs41rwG/V/543399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UT7LYkEE/V/543398/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aZLtAZSO/V/681404/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651433/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543397/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651434/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651430/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651431/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651429/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651428/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651435/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543396/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4Gs41rwG/V/543399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UT7LYkEE/V/543398/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/aZLtAZSO/V/681404/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651432/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651433/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/2N0XowVK/V/543397/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651434/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651430/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651431/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651429/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651428/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/MI1td0xW/V/651435/13"
+      ]
+    },
+    {
+      "name": "372 Beryl Cove",
+      "plan": "Marigold",
+      "id": "696951",
+      "address": "372 Beryl Cove, Sanford, Florida",
+      "price": "$393,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,782 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543396/13",
+      "url": "https://www.pulte.com/homes/florida/orlando/sanford/emerald-pointe-211041/marigold-696951",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651427/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543397/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543398/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9ZsHIC3l/V/681403/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651426/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651424/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543396/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651425/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651421/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651423/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651420/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651419/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651422/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651427/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543397/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543398/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543399/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/9ZsHIC3l/V/681403/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651426/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651424/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/HhhFrXi5/V/543396/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651425/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651421/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651423/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651420/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651419/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651422/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/jR2PdXoR/V/651427/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

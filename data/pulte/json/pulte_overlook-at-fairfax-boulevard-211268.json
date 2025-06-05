@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-06-04T20:44:04.538085",
+  "name": "Overlook at Fairfax Boulevard",
+  "status": null,
+  "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268",
+  "price_from": "$789,675",
+  "address": "3944 Oak St, Fairfax, Virginia 22030",
+  "phone": "(703) 972-1601",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/FrqFtty0/"
+  ],
+  "location": {
+    "latitude": 38.85192,
+    "longitude": -77.316741,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$789,675-$964,990",
+    "sqft_range": "2,474-2,548",
+    "bed_range": "3-5",
+    "bath_range": "2.5-4.5",
+    "stories_range": "4",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Walk across",
+      "description": "Walk across street to Dolce Vita Italian Restaurant & Wine Bar. Nearby is Anita’s and Duck Donuts!",
+      "icon_url": null
+    },
+    {
+      "name": "Walk Pat",
+      "description": "Walk to Pat Rodio Park, which features a soccer field, 2 little league diamonds and a playground.",
+      "icon_url": null
+    },
+    {
+      "name": "Love outdoors?",
+      "description": "Love the outdoors? Closeby is Van Dyck Park, a 36 acre park with a lighted outdoor basketball court, exercise trail, picnic pavilions, a skate park, grills, lighted outdoor tennis courts and more.",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Providence",
+      "description": "Nearby is Providence Park, a 20-acre park in Fairfax with a trail, large multipurpose field, tennis court, playground and more!",
+      "icon_url": null
+    },
+    {
+      "name": "many options",
+      "description": "So many options in the Washington DC Metropolitan area! A few key places include - Smithsonian Museums, the monuments and the National Mall, outdoor concerts (Wolftrap, Merriweather Post Pavilion, Jiffy Lube Live), Sporting Events, historic battlefields, Eagle Bank Arena and George Mason Center for the Arts",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Sydney",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/sydney-698161",
+      "details": {
+        "price": "From $789,675",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,548 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XS5AQNC0/V/636311/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Halston II",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/halston-ii-698158",
+      "details": {
+        "price": "From $929,990",
+        "beds": "3-5 bd",
+        "baths": "2.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "2,500 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/uFInNxJN/V/636314/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Greywood II",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/greywood-ii-698157",
+      "details": {
+        "price": "From $964,990",
+        "beds": "3-5 bd",
+        "baths": "2.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "2,474 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Jl1cdhKc/V/636313/13"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/zXz4FIAa/V/630874/13"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/zXz4FIAa/V/630875/13"
+        },
+        {
+          "name": "3rd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/zXz4FIAa/V/630877/13"
+        },
+        {
+          "name": "4th Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.picturepark.com/Go/zXz4FIAa/V/630878/13"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Sydney",
+      "id": "698161",
+      "address": null,
+      "price": "$789,675",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "2,548 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/XS5AQNC0/V/636311/13",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/sydney-698161",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Halston II",
+      "id": "698158",
+      "address": null,
+      "price": "$929,990",
+      "beds": "3-5 bd",
+      "baths": "2.5-4.5 ba",
+      "sqft": "2,500 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/uFInNxJN/V/636314/13",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/halston-ii-698158",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": "3944 Oak St",
+      "plan": "Greywood II",
+      "id": "698157",
+      "address": "3944 Oak St, Fairfax, Virginia",
+      "price": "$964,990",
+      "beds": "3-5 bd",
+      "baths": "2.5-4.5 ba",
+      "sqft": "2,474 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Jl1cdhKc/V/636313/13",
+      "url": "https://www.pulte.com/homes/virginia/northern-virginia/fairfax/overlook-at-fairfax-boulevard-211268/greywood-ii-698157",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467185/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467186/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467187/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467190/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467191/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467192/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467172/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467177/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467176/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Jl1cdhKc/V/636313/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467173/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467178/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467179/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467180/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467181/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467182/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467183/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467184/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467185/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467186/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467187/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467190/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467191/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467192/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467172/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467177/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467176/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Jl1cdhKc/V/636313/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467173/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467178/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467179/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467180/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467181/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467182/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467183/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467184/13",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.picturepark.com/Go/T7cbydA6/V/467185/13"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

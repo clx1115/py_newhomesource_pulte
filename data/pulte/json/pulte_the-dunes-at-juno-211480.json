@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-06-05T13:11:48.036458",
+  "name": "The Dunes at Juno",
+  "status": null,
+  "url": "https://www.divosta.com/homes/florida/palm-beach/juno-beach/the-dunes-at-juno-211480",
+  "price_from": "$1",
+  "address": "On Donald Ross Rd, .12 miles from US-1, Juno Beach, Florida 33408",
+  "phone": "(561) 510-7800",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [],
+  "location": {
+    "latitude": 26.881369,
+    "longitude": -80.058343,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Stories",
+      "description": "Luxury Community with 40 New 3-Story Townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "Desirable Barrier",
+      "description": "Desirable Barrier Island Location",
+      "icon_url": null
+    },
+    {
+      "name": "Minute Walk",
+      "description": "6 Minute Walk to the Beach",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 5 Minutes from Juno Beach Pier",
+      "icon_url": null
+    },
+    {
+      "name": "Steps Away",
+      "description": "Steps Away from Local Restaurants",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 10 minutes away from Local Gyms",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Golf",
+      "description": "Nearby Golf Clubs",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Hiking",
+      "description": "Nearby Hiking Trail",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 1 mile from US-1",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 5 miles from I-95",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

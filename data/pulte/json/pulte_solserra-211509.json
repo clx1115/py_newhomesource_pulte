@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-06-03T17:27:32.633049",
+  "name": "Solserra",
+  "status": null,
+  "url": "https://www.pulte.com/homes/north-carolina/wilmington/shallotte/solserra-211509",
+  "price_from": null,
+  "address": "407 Lamer Loop Shallotte, NC 28470, Shallotte, North Carolina 28470",
+  "phone": "(910) 541-8200",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/DxLAEsy2/"
+  ],
+  "location": {
+    "latitude": 33.970832,
+    "longitude": -78.361192,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

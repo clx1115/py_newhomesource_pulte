@@ -1,0 +1,358 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="css/fonts.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<title>Pulte Insurance Agency</title>
+</head>
+
+<body>
+
+    <div class="header">
+        <a href="./index.html"><img src="./img/logo.jpg" class="logo"></a>
+        <div class="nav">
+            <a href="./about.html"><div class="nav-btn">About</div></a>
+            <a href="./our-products.html"><div class="nav-btn">Our Products</div></a>
+            <a href="./contact.html"><div class="nav-btn">Contact Us</div></a>
+            <a href="https://www.ourinsuranceportal.com/(S(fhok5nwg4asalb4ojprppxic))/public/getaquote.aspx?code=PUL" target="_blank"><div class="nav-btn">Request a Quote</div></a>
+        </div>
+        <div class="menu-bars">
+            <div class="nav-btn-icon nav-btn-open" onclick="openNavMenu()">
+                <i class="fas fa-bars"></i>
+            </div>
+            <div class="nav-btn-icon nav-btn-close hide" onclick="closeNavMenu()" style="display: none;">
+                <i class="fas fa-times"></i>
+            </div>
+        </div>
+    </div>
+
+	<div class="full-width hero-container">
+        <div class="hero-image-container">
+            <div class="hero-image hero-image-0 active"></div>
+            <div class="hero-image hero-image-1"></div>
+            <div class="hero-image hero-image-2"></div>
+            <div class="gradient-container">
+                <div class="gradient-mask"></div>
+            </div>
+        </div>
+        <div class="hero-menu">
+            <div class="hero-cta active">
+                <div class="hero-cta-headline">The best things in life are <span>priceless</span>.</div>
+                <div class="hero-cta-copy">Let us do the heavy lifting for you so you can spend more time focusing on life’s little moments.</div>
+            </div>
+            <div class="hero-cta">
+                <div class="hero-cta-headline">You've worked hard for what you have.</div>
+                <div class="hero-cta-headline"><span>Now let us protect it.</span></div>
+            </div>
+            <div class="hero-cta">
+                <div class="hero-cta-headline">A rainy day can happen to <span>anyone</span>.</div>
+                <div class="hero-cta-copy"><span>Don’t let a disaster rain on your parade.</span><br>At Pulte Insurance Agency, we’re here to help cover your most valuable assets in the event of an incident.</div>
+            </div>
+            <div class="hero-nav-container">
+                <div class="hero-directional-btn" onclick="previousHeroNavClicked()">
+                    <i class="fas fa-chevron-left"></i>
+                </div>
+                <div class="hero-nav">
+                    <div class="hero-btn active" onclick="carouselHeroFocusClicked(0)">
+                        <img class="hero-btn-img" src="./img/icon-house.png">
+                        <div class="hero-btn-copy">Homeowners<br>Insurance</div>
+                    </div>
+                    <div class="hero-btn" onclick="carouselHeroFocusClicked(1)">
+                        <img class="hero-btn-img" src="./img/icon-auto.png">
+                        <div class="hero-btn-copy">Auto<br>Insurance</div>
+                    </div>
+                    <div class="hero-btn" onclick="carouselHeroFocusClicked(2)">
+                        <img class="hero-btn-img" src="./img/icon-flood.png">
+                        <div class="hero-btn-copy">Flood<br>Insurance</div>
+                    </div>
+                </div>
+                <div class="hero-directional-btn" onclick="nextHeroNavClicked()">
+                    <i class="fas fa-chevron-right"></i>
+                </div>
+                
+            </div>
+            <div class="hero-menu-cta-container">
+                <div class="button">Request a Quote
+                    <div class="button-sub">
+                        <a href="https://www.ourinsuranceportal.com/(S(fhok5nwg4asalb4ojprppxic))/public/getaquote.aspx?code=PUL" target="_blank"><div class="button-sub-btn">Homeowners</div></a>
+                        <a href="https://www.agentinsure.com/compare/auto-insurance-home-insurance/pcicinsuranceagency/quote.aspx" target="_blank"><div class="button-sub-btn">Auto</div></a>
+                        <a href="https://www.ourinsuranceportal.com/(S(fhok5nwg4asalb4ojprppxic))/public/getaquote.aspx?code=PUL" target="_blank"><div class="button-sub-btn">Other</div></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width why-container">
+        <div class="container">
+            <div class="row">
+                <div class="why-copy col-12 col-lg-6">
+                    <h2 class="headline">Why Pulte Insurance Agency?</h2>
+                    <p>As a member of the PulteGroup Family of Companies, Pulte Insurance Agency is deeply integrated with the homebuilding process and offers all the coverage you’ll need to feel protected from natural disasters, accidents, theft, and whatever else life throws your way. With more than 70 years of experience, you can trust Pulte Insurance Agency to protect your home, vehicle and more with a seamless insurance process that will be sure to fit your needs and budget.<br><br>Not a current PulteGroup customer? <b>No problem!</b> Regardless if you’re already part of the PulteGroup family or not, Pulte Insurance Agency is here for all your coverage needs.</p>
+                    <div class="why-cta-container">
+                        <a href="https://www.youtube.com/embed/_hC3oeXFufg?playlist=_hC3oeXFufg&amp;loop=1&amp;autoplay=1" target="_blank"><div class="button">Learn More</div></a>
+                    </div>
+                </div>
+                <div class="why-image col-12 col-lg-6">
+                    <img src="./img/WhyPulte-Image.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width our-products-container">
+        <div class="our-products-bg" "=""></div>
+        <div class="container">
+            <div class="products-copy">
+                <h2 class="font-color-white text-align-center headline">Our Top Insurance Products</h2>
+                <h4 class="font-color-white text-align-center">From your home and car — to everything in-between — we’re here to protect your most valued assets.</h4>
+            </div>
+            <div class="product-list">
+                <div class="row">
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Homeowners</div>
+                                <img class="product-icon" src="./img/Home@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Protecting what makes a house a home</b></div>
+                            <div class="product-description">When it comes to insuring your new PulteGroup home, we’ve made it easy and convenient by tightly integrating our processes and communications with your homebuilder.</div>
+                        </div>
+                    </div>
+                    
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Auto</div>
+                                <img class="product-icon" src="./img/Auto@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Buckle up with comprehensive coverage</b></div>
+                            <div class="product-description">At Pulte Insurance Agency, we’re here to protect you—on and off the road. Our competitive auto insurance can also extend to motorcycles, boats and other recreational vehicles.</div>
+                        </div>
+                    </div>
+
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Condominium</div>
+                                <img class="product-icon" src="./img/Condo@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Keep your property protected</b></div>
+                            <div class="product-description">With competitive quotes tailored to suit your needs, our condo insurance protects you from personal liabilities, along with damages, losses or improvements made to your unit.</div>
+                        </div>
+                    </div>
+
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Flood</div>
+                                <img class="product-icon" src="./img/Flood@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Here to protect you, rain or shine </b></div>
+                            <div class="product-description">Waterproof your assets from heavy rains, rising waters, and more. If your home is in a high flood risk area, you may be required to provide evidence of flood insurance coverage.</div>
+                        </div>
+                    </div>
+
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Earthquake</div>
+                                <img class="product-icon" src="./img/EarthQuake@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Coverage for when things get shaky</b></div>
+                            <div class="product-description">Expect the unexpected and be prepared with earthquake coverage. Earthquake insurance is available in most states and protects you from unforeseen damages caused by earthquakes.</div>
+                        </div>
+                    </div>
+
+                    <div class="product-item-container col-xs-12 col-md-6 col-lg-4">
+                        <div class="product-item col-12">
+                            <div class="product-title-container">
+                                <div class="product-title">Umbrella</div>
+                                <img class="product-icon" src="./img/Rental@2x.png">
+                            </div>
+                            <div class="product-description-title"><b>Coverage that goes above and beyond</b></div>
+                            <div class="product-description">Sometimes when it rains, it pours. This excess liability insurance can extend your coverage and provide peace of mind beyond the limits of your other policies.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="view-all-products-container">
+                <a href="./our-products.html"><div class="view-all-products">View All Our Products</div></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width call-outs-container">
+        <div class="container">
+            <div class="row">
+                <div class="call-out-item-container col-xs-12 col-md-4">
+                    <div class="call-out-item col-12">
+                        <img class="call-out-icon" src="./img/New-Home-Experts-Icon@2x.png">
+                        <div class="call-out-title"><b>New Home Experts</b></div>
+                        <div class="call-out-description">We work hand-in-hand with your homebuilder to create an easy experience for insuring your new home.</div>
+                    </div>
+                </div>
+
+                <div class="call-out-item-container col-xs-12 col-md-4">
+                    <div class="call-out-item col-12">
+                        <img class="call-out-icon" src="./img/Smart-Coverage-Icon@2x.png">
+                        <div class="call-out-title"><b>Smart Coverage</b></div>
+                        <div class="call-out-description">With flexible coverage options and competitive rates, we have a variety of products to fit your needs.</div>
+                    </div>
+                </div>
+
+                <div class="call-out-item-container col-xs-12 col-md-4">
+                    <div class="call-out-item col-12">
+                        <img class="call-out-icon" src="./img/Customer-Care-Icon@2x.png">
+                        <div class="call-out-title"><b>Customer Care</b></div>
+                        <div class="call-out-description">Our top-notch customer service makes choosing coverage, filing claims and answering questions a breeze.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width quotes-container">
+        <div class="container">
+            <div class="quotes-shell">
+                <div class="quote-icon"></div>
+                <div class="quote-holder">
+                    <div class="quote-direction quote-previous" onclick="previousQuoteClicked()"><i class="fas fa-chevron-left"></i></div>
+                    <div class="quote-container">
+                        <div class="quote quote-active quote-animate-in">
+                            <div class="quote-title">“It didn’t seem like I was speaking to a salesperson, no pressure whatsoever.”</div>
+                            <div class="quote-from">- Frank S.</div>
+                            <div class="quote-small-print">Arizona</div>
+                        </div>
+                        <div class="quote">
+                            <div class="quote-title">“Very convenient, you helped out when we were in a pinch. Excellent. Fast service and you totally took the stress out of buying a new home.”</div>
+                            <div class="quote-from">- Maite B.</div>
+                            <div class="quote-small-print">Florida</div>
+                        </div>
+                        <div class="quote">
+                            <div class="quote-title">“You made the process easy, explained the coverage options in detail, and the rates were competitive.”</div>
+                            <div class="quote-from">- Gregory H.</div>
+                            <div class="quote-small-print">Arizona</div>
+                        </div>
+                        <div class="quote">
+                            <div class="quote-title">“I’ve been in the insurance industry for 27 years, your people are fantastic!”</div>
+                            <div class="quote-from">- David D.</div>
+                            <div class="quote-small-print">Florida</div>
+                        </div>
+                        <div class="quote">
+                            <div class="quote-title">“The product was tailor made for our needs, and the agent was knowledgeable and very nice to speak with.”</div>
+                            <div class="quote-from">- Pratheep A.</div>
+                            <div class="quote-small-print">Massachusetts</div>
+                        </div>
+                        <div class="quote">
+                            <div class="quote-title">“Lowest rates from the other companies that I compared to, I would recommend Pulte Insurance to anyone.”</div>
+                            <div class="quote-from">- Brianna G.</div>
+                            <div class="quote-small-print">Florida</div>
+                        </div>
+                    </div>
+                    <div class="quote-direction quote-next" onclick="nextQuoteClicked()"><i class="fas fa-chevron-right"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width cares-container">
+        <div class="container">
+            <div class="row">
+                <div class="cares-image-gallery col-12 col-lg-6">
+                    <div class="image-gallery-container">
+                        <img class="image-gallery" src="./img/home-page-image-gallery/BuiltToHonor_Slide1.jpg">
+                        <img class="image-gallery image-gallery-active" src="./img/home-page-image-gallery/BuiltToHonor_Slide2.jpg">
+                        <img class="image-gallery" src="./img/home-page-image-gallery/BuiltToHonor_Slide3.jpg">
+                        <img class="image-gallery" src="./img/home-page-image-gallery/BuiltToHonor_Slide4.jpg">
+                        <img class="image-gallery" src="./img/home-page-image-gallery/BuiltToHonor_Slide5.jpg">
+                    </div>
+                    <div class="image-gallery-pagination"><div id="bubble-0" class="bubble" onclick="nextGalleryClick(0)"></div><div id="bubble-1" class="bubble bubble-active" onclick="nextGalleryClick(1)"></div><div id="bubble-2" class="bubble " onclick="nextGalleryClick(2)"></div><div id="bubble-3" class="bubble " onclick="nextGalleryClick(3)"></div><div id="bubble-4" class="bubble " onclick="nextGalleryClick(4)"></div></div>
+                </div>
+                <div class="cares-copy col-12 col-lg-6">
+                    <h2 class="font-color-dark-blue headline">Pulte Cares</h2>
+                    <h3 class="font-color-dark-blue subheadline">We believe in making our communities a better place. That's why we give back by doing what we do best - providing families with a place to call home.</h3>
+                    <p>Being part of the PulteGroup Family of Companies allows us the opportunity to help in big ways. From canned food drives and silent auctions to 5k Fun Runs and blanket drives, we work together to provide for those who struggle to provide for themselves.<br><br>Among the initiatives we proudly support are the <a href="#" target="_blank" class="link">Built to Honor Program</a> and the <a href="#" target="_blank" class="link">MBA Opens Doors Foundation</a>. The Built to Honor Program provides mortgage-free homes to deserving wounded veterans across the country. Since 2013, we've banded together with our dedicated and generous suppliers and contractors to support this effort-having built 30 new homes worth upwards of $9 million for our veterans and their families. The MBA Opens Doors Foundation provides mortgage and rental assistance to those families caring for critically ill or injured children. We believe parents and guardians should focus on the medical needs of their child and not on whether they'll be able to make that month's home payment or not.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width clients-container">
+        <div class="container">
+            <h2 class="font-color-white text-align-center headline">Proud Member of the PulteGroup Family of Companies</h2>
+            <div class="client-list">
+                <img class="client-image" src="./img/PulteHomes_Logo_PMS.png">
+                <img class="client-image" src="./img/DelWebb_Logo_Blue.png">
+                <img class="client-image" src="./img/DiVosta_Logo_Blue.png">
+                <img class="client-image" src="./img/Centex_Logo_Red.png">
+                <img class="client-image" src="./img/John-Weiland-Logo.png">
+                <img class="client-image" src="./img/AmericanWest_Logo_White.png">
+                <img class="client-image" src="./img/PGPTitle_Logo_PMS.png">
+                <img class="client-image" src="./img/PulteMortgage_Logo_PMS.png">
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width footer-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-5">
+                    <div class="footer-title">Pulte Insurance Agency</div>
+                    <div class="footer-description">As a proud member of the PulteGroup Family of Companies, we offer a variety of insurance products and are the preferred homeowners insurance provider for Pulte Homes, Centex, Del Webb, DiVosta, John Wieland Homes, and American West Homes.<br><br><br>
+                        <a href="http://www.pulteinsurance.com/documents/Pulte%20Insurance%20Privacy%20Policy.pdf" target="_blank" class="footer-link">Privacy Policy</a><br>
+                        <a href="http://www.pulteinsurance.com/documents/Pulte%20Insurance%20Privacy%20Notice%20CA.pdf" target="_blank" class="footer-link">Privacy Notice</a> - CA Residents
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-1"></div>
+
+                <div class="col-12 col-md-3">
+                    <div class="footer-title">Family of Companies</div>
+                    <a href="https://www.pulte.com/" target="_blank" class="footer-link">Pulte Homes</a><br>
+                    <a href="https://www.delwebb.com/" target="_blank" class="footer-link">Del Webb</a><br>
+                    <a href="https://www.divosta.com/" target="_blank" class="footer-link">DiVosta</a><br>
+                    <a href="https://www.centex.com/" target="_blank" class="footer-link">Centex</a><br>
+                    <a href="https://www.jwhomes.com/" target="_blank" class="footer-link">John Wieland</a><br>
+                    <a href="https://www.americanwesthomes.com/" target="_blank" class="footer-link">American West Homes</a><br>
+                    <a href="http://www.pgptitle.com/" target="_blank" class="footer-link">PGP Title</a><br>
+                    <a href="https://www.pultemortgage.com/" target="_blank" class="footer-link">Pulte Mortgage</a><br>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="footer-title">Site Links</div>
+                    <a href="./about.html" class="footer-link">About Us</a><br>
+                    <a href="./our-products.html" class="footer-link">Our Products</a><br>
+                    <a href="./contact.html" class="footer-link">Contact Us</a><br>
+                    <a href="https://www.ourinsuranceportal.com/(S(fhok5nwg4asalb4ojprppxic))/public/getaquote.aspx?code=PUL" target="_blank" class="footer-link">Request a Quote</a><br><br>
+                    <a href="https://www.themuse.com/profiles/pultemortgage" target="_blank" class="footer-link">Careers – External Candidates</a><br>
+                    <a href="https://www.myworkday.com/pultegroup/d/task/3005$4482.htmld" target="_blank" class="footer-link">Careers – Current Employees</a><br><br>
+                    <a href="https://www.linkedin.com/company/pulte-insurance-agency-inc-/" target="_blank" class="footer-link">Follow Us On LinkedIn</a><br>
+                    <img class="equal-housing" src="./img/equal-houseing-logo.svg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-width legal-container">
+        <div class="container">
+            <div class="copyright">
+                © Copyright 2020 Pulte Insurance Agency. All Rights Reserved.<br>
+                Licensed in California as Pulte Insurance Agency, Inc. | CA License #0K88274
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+
+
+
+
+
+</body></html>

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-06-03T16:48:24.916474",
+  "name": "Reserve at Franconia",
+  "status": null,
+  "url": "https://www.pulte.com/homes/pennsylvania/philadelphia/souderton/reserve-at-franconia-211108",
+  "price_from": "$599,990",
+  "address": "449 Beck Road, Souderton, Pennsylvania 18964",
+  "phone": "(215) 515-6313",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/TqJXgnaL/V/295732/13"
+  ],
+  "location": {
+    "latitude": 40.291034,
+    "longitude": -75.326622,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Intimate community",
+      "description": "Intimate community of just 42 Single Family homes and 42 Townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "Highly Regarded",
+      "description": "Highly Regarded Souderton School District",
+      "icon_url": null
+    },
+    {
+      "name": "miles Lansdale",
+      "description": "6 miles to Lansdale SEPTA Station",
+      "icon_url": null
+    },
+    {
+      "name": "Souderton, ranked",
+      "description": "Souderton, PA is ranked highly by Niche.com as a best place to raise a family in America",
+      "icon_url": null
+    },
+    {
+      "name": "Enjoy all",
+      "description": "Enjoy all that downtown Lansdale has to offer including local restaurants and shops",
+      "icon_url": null
+    },
+    {
+      "name": "Head outdoors!",
+      "description": "Head outdoors! Reserve at Franconia is close to the walking trails at Peace Valley Park and Evansburg State Park",
+      "icon_url": null
+    },
+    {
+      "name": "This community",
+      "description": "This community includes a Fiber network that provides fast, reliable, multi-user Internet needed in homes today and in the future",
+      "icon_url": null
+    },
+    {
+      "name": "Spacious backyards",
+      "description": "Spacious backyards for our single family homes",
+      "icon_url": null
+    },
+    {
+      "name": "Finished basements",
+      "description": "Finished basements available",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

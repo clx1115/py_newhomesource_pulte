@@ -1,0 +1,101 @@
+{
+  "timestamp": "2025-06-03T13:50:53.933378",
+  "name": "Amara",
+  "status": null,
+  "url": "https://www.divosta.com/homes/florida/palm-beach/lake-worth/amara-211382",
+  "price_from": "$1",
+  "address": "On Highway 441, 0.3 miles South of Hypoluxo Road, Lake Worth, Florida 33449",
+  "phone": "(561) 786-1600",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/H54NgxTq/V/664051/13"
+  ],
+  "location": {
+    "latitude": 26.565803,
+    "longitude": -80.206427,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Home Designs",
+      "description": "145 Single-Family New Construction Homes",
+      "icon_url": null
+    },
+    {
+      "name": "Community Development",
+      "description": "No Community Development District (CDD)",
+      "icon_url": null
+    },
+    {
+      "name": "Resort-Style Pool",
+      "description": "Resort-Style Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Pool Cabanas",
+      "description": "Pool Cabanas",
+      "icon_url": null
+    },
+    {
+      "name": "Top-Rated Elementary,",
+      "description": "Top-Rated Elementary, Middle, and High Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Wellington",
+      "description": "7 Miles from Wellington Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Beautiful",
+      "description": "10 Miles from Beautiful Public Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 10 Miles from I-95",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 7 Minutes from Florida's Turnpike",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 7 Miles from Polo Fields",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes West",
+      "description": "30 Minutes from West Palm Beach Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Downtown",
+      "description": "30 Minutes from Downtown Delray Beach",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Palm",
+      "description": "30 Minutes from Palm Beach International Airport",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

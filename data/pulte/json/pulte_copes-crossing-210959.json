@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-06-03T15:33:33.879545",
+  "name": "Copes Crossing",
+  "status": null,
+  "url": "https://www.pulte.com/homes/tennessee/nashville/white-house/copes-crossing-210959",
+  "price_from": "$409,990",
+  "address": "217 Brook Ave, White House, Tennessee 37188",
+  "phone": "(615) 645-3831",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/MchKD4JT/"
+  ],
+  "location": {
+    "latitude": 36.460802,
+    "longitude": -86.64726,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Zoned for",
+      "description": "Zoned for desirable Sumner County Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Boutique community",
+      "description": "Boutique community with only 102 homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Floor Plans",
+      "description": "Spacious One & Two-Story Floor Plans",
+      "icon_url": null
+    },
+    {
+      "name": "Proximity everyday",
+      "description": "Proximity to everyday conveniences and additional options in Nashville",
+      "icon_url": null
+    },
+    {
+      "name": "Easy commute",
+      "description": "Easy commute to I-65 and downtown Nashville",
+      "icon_url": null
+    },
+    {
+      "name": "Located near",
+      "description": "Located near major employers including Simmons Bank, Carpenter Technologies, First Horizon Bank, 31W, HCA, Bridgestone, Alliance Bernstein, Vanderbilt & Asurion",
+      "icon_url": null
+    },
+    {
+      "name": "AT&T Fiber",
+      "description": "AT&T Fiber network provides up to Gigabit Internet speeds",
+      "icon_url": null
+    },
+    {
+      "name": "Near area",
+      "description": "Near area parks including White House Splash Pad, Veterans Memorial Trailhead, WL Anderson Soccer Complex & Michael L Arnold Municipal Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pulte Build",
+      "description": "Pulte Build Quality Experience",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pocket",
+      "description": "Community Pocket Parks with Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Paths connect",
+      "description": "Paths to connect to Greenway Path",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

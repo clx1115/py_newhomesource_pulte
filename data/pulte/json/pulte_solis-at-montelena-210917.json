@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-06-05T14:15:47.197890",
+  "name": null,
+  "status": null,
+  "url": "https://www.pulte.com/homes/california/sacramento/rancho-cordova/solis-at-montelena-210917",
+  "price_from": null,
+  "address": null,
+  "phone": null,
+  "description": null,
+  "images": [],
+  "location": {
+    "latitude": null,
+    "longitude": null,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

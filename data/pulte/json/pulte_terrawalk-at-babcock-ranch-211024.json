@@ -1,0 +1,221 @@
+{
+  "timestamp": "2025-06-05T14:49:56.988714",
+  "name": "TerraWalk at Babcock Ranch",
+  "status": null,
+  "url": "https://www.divosta.com/homes/florida/fort-myers/babcock-ranch/terrawalk-at-babcock-ranch-211024",
+  "price_from": "$367,990",
+  "address": "12532 Quartz Drive, Babcock Ranch, Florida 33920",
+  "phone": "(941) 344-2971",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/xnMl2fTh/"
+  ],
+  "location": {
+    "latitude": 26.75832,
+    "longitude": -81.750798,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "miles Publix",
+      "description": "1.5 miles to the Publix anchored Crescent B Commons which features a variety of restaurants where you can enjoy everything from Taco Tuesday to Pizza night or pick up coffee from the drive-thru Starbucks",
+      "icon_url": null
+    },
+    {
+      "name": "miles Shoppes",
+      "description": "1.5 miles to The Shoppes at Yellow Pine which will feature a Marshalls, Ace Hardware, 5 Below, Oar & Iron, Verizon, and Seymour Orthodontics. Additional tenants will be announced in the coming months, including beauty supply, hair services, a spa, beauty and nail salon, an urgent care medical office, a med spa, pool supply and a gym. An array of dining establishments will provide morning-to-evening options, including a breakfast café, a dessert shop, a Thai restaurant, pizza shop and a seafood restaurant with patios, outdoor dining and gathering areas and a freestanding restaurant overlooking Sunset Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "3 miles to Founder’s Square which is the social hub of Babcock Ranch. It’s a central gathering place for neighbors and guests and the site of community events, music, and celebrations for all ages",
+      "icon_url": null
+    },
+    {
+      "name": "Slaters Goods",
+      "description": "Slaters Goods & Provisions is the Babcock Ranch neighborhood market, offering fresh produce, a salad bar, wine and a farm-fresh breakfast menu and more",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "If you’re craving caffeine or something sweet, Square Scoops ice creamery are steps away, and the nearby Lake House Kitchen + Bar offers residents a relaxing lakefront dining experience",
+      "icon_url": null
+    },
+    {
+      "name": "Hatchery Babcock",
+      "description": "The Hatchery is Babcock Ranch's office co-working space that offers a thoughtfully-designed place to work, meet, and collaborate. The Hatchery’s beautiful balcony view is perfect for taking a conference call or an office break for some fresh air",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "Escape the heat with the interactive Splash Pad at Founder's Square. It’s the perfect spot to cool down, entertain kids for hours , or enjoy the fountain lights at night",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "If you love music, the nearby band shell at Founder's Square is the perfect place to relax and enjoy live entertainment",
+      "icon_url": null
+    },
+    {
+      "name": "miles future",
+      "description": "6.5 miles to future Midtown which will offer residents a new central gathering space: a next-generation, mixed-use town center with dining, offices, and shops all within a seven-acre Village Green",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "20 minutes to The Forum shopping plaza, including Target, Home Depot, Bed Bath & Beyond, Petco, and more",
+      "icon_url": null
+    },
+    {
+      "name": "minutes Fort",
+      "description": "25 minutes to Fort Myers River District, offering restaurants, boutique shops, and tons of events and attractions",
+      "icon_url": null
+    },
+    {
+      "name": "minutes Edison",
+      "description": "25 minutes to Edison Mall, including a wide variety of department and sporting goods stores, and Edison Park movie theater",
+      "icon_url": null
+    },
+    {
+      "name": ",000 Future",
+      "description": "1,000 Future Front Doors",
+      "icon_url": null
+    },
+    {
+      "name": "Water preserve",
+      "description": "Water and preserve view homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Stories",
+      "description": "Consumer-inspired and innovative 1- and 2-story home designs",
+      "icon_url": null
+    },
+    {
+      "name": "Twin villas",
+      "description": "Twin villas and single-family homes",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Internal walking",
+      "description": "Internal walking trails throughout the community",
+      "icon_url": null
+    },
+    {
+      "name": "-Acre lakeside",
+      "description": "8-Acre lakeside resort amenity campus",
+      "icon_url": null
+    },
+    {
+      "name": "Resort amenities",
+      "description": "Resort amenities including: Pool with spa, fire pit lounge, pickleball courts, tennis courts, bocce ball courts, event lawn, dog park and so much more",
+      "icon_url": null
+    },
+    {
+      "name": "Grand clubhouse",
+      "description": "Grand clubhouse with state-of-the-art fitness center, exercise studio, locker rooms, card rooms, large community room, catering kitchen, indoor/outdoor social lounge, plus an outdoor bar and grill",
+      "icon_url": null
+    },
+    {
+      "name": "Live life",
+      "description": "Live the life at Babcock Ranch, the 1st solar powered city in America",
+      "icon_url": null
+    },
+    {
+      "name": "Adjacent 73,000",
+      "description": "Adjacent to 73,000 acre Babcock Ranch Preserve",
+      "icon_url": null
+    },
+    {
+      "name": "Florida Green",
+      "description": "Florida Green Building Coalition (FGBC) 2023 Builder of the Year for the most certified single-family homes",
+      "icon_url": null
+    },
+    {
+      "name": "Square Footage",
+      "description": "Slater's Goods & Provisions is the Babcock neighborhood market, offering fresh produce, a salad bar, wine and a farm-fresh breakfast menu and more. If you’re craving caffeine or something sweet and Square Scoops ice creamery are steps away, and the nearby Lake House Kitchen + Bar offers residents a relaxing lakefront dining experience",
+      "icon_url": null
+    },
+    {
+      "name": "Want switch",
+      "description": "Want to switch things up for dinner? From Taco Tuesday to Pizza night, Crescent B Commons has you covered with a variety of restaurants for lunch, Friday nights out, and everything in between",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Jack",
+      "description": "Nearby Jack Peeples Park, which includes 6 tennis courts, 4 pickleball courts, 2 bocce courts, and an open sports field",
+      "icon_url": null
+    },
+    {
+      "name": "Near William",
+      "description": "Near William and Mary Ann Smith Sports Complex, a regional park and outdoor sports facility offering a trailhead to Bill Hammond Trails, the sports complex will offer softball, baseball and multipurpose fields, a skate park, game night field, running track, expansive flex lawns and ample parking",
+      "icon_url": null
+    },
+    {
+      "name": "Opportunities for",
+      "description": "Opportunities for outdoor exploration are endless at Babcock Ranch. Once completed, the trail network will extend over 50 miles. Bike along the many lakes, explore Florida scrub brush, and find a route that you’ll love to walk, run, or bike day after day",
+      "icon_url": null
+    },
+    {
+      "name": "Lake Bullhorn",
+      "description": "Lake Bullhorn Park nearby offers a .25 mile trail along the lakeside",
+      "icon_url": null
+    },
+    {
+      "name": "Furry friends",
+      "description": "Furry friends will enjoy the dog park at Sunset Lake nearby which also features the Dick Cuda Trail, a 2 mile shell path around Sunset Lake",
+      "icon_url": null
+    },
+    {
+      "name": "TerraWalk will",
+      "description": "TerraWalk will feature a State-of-the-Art Fitness Center",
+      "icon_url": null
+    },
+    {
+      "name": "Enjoy private",
+      "description": "Enjoy private walking trails within TerraWalk and throughout Babcock Ranch",
+      "icon_url": null
+    },
+    {
+      "name": "Residents TerraWalk",
+      "description": "Residents of TerraWalk can also enjoy the health and wellness amenities provided by Babcock Ranch, including WellWay, full-service health club",
+      "icon_url": null
+    },
+    {
+      "name": "Babcock Ranch",
+      "description": "Babcock Ranch is also a popular location for freshwater catch and release fishing",
+      "icon_url": null
+    },
+    {
+      "name": "Sports Courts",
+      "description": "Sports Courts Completion Early 2025",
+      "icon_url": null
+    },
+    {
+      "name": "Grand Clubhouse",
+      "description": "Grand Clubhouse Opening Late 2025",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

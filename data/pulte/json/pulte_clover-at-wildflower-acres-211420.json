@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-06-04T20:03:49.269482",
+  "name": "Clover at Wildflower Acres",
+  "status": null,
+  "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420",
+  "price_from": "$569,990",
+  "address": "4207 Clifton Avenue, Ontario, California 91761",
+  "phone": "(909) 550-5221",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/P9dAsCrA/"
+  ],
+  "location": {
+    "latitude": 33.997408,
+    "longitude": -117.562012,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$569,990-$614,990",
+    "sqft_range": "1,498-1,650",
+    "bed_range": "2-3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Community Park",
+      "description": "Community Park",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Fresco Dining",
+      "description": "Al Fresco Dining Area",
+      "icon_url": null
+    },
+    {
+      "name": "Pool Spa",
+      "description": "Pool and Spa",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Plan 1",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-1-699150",
+      "details": {
+        "price": "From $569,990",
+        "beds": "2 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,498 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dhRHIcHQ/"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.cdn.picturepark.com/v/QelGQJRE/"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.0,c_fill,q_auto,f_auto/https://pultegroup.cdn.picturepark.com/v/KG1V1SC4/"
+        }
+      ]
+    },
+    {
+      "name": "Plan 2",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-2-699151",
+      "details": {
+        "price": "From $590,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,572 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BweBJj9u/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Plan 3",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-3-699152",
+      "details": {
+        "price": "From $614,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,650 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/898BoUgD/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Plan 3X",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-3x-699153",
+      "details": {
+        "price": "From $614,990",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,650 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/NGist5H9/"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": "4207 Clifton Avenue",
+      "plan": "Plan 1",
+      "id": "1",
+      "address": "4207 Clifton Avenue, Ontario, California",
+      "price": "$569,990",
+      "beds": "2 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,498 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dhRHIcHQ/",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-1-699150",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/HpB56rQA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GgYHRfoh/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/p39Bx0xU/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dhRHIcHQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GRpMNdqR/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/op6jUylm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/R31hx4LZ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/HpB56rQA/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GgYHRfoh/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/p39Bx0xU/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/dhRHIcHQ/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/GRpMNdqR/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/op6jUylm/",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/R31hx4LZ/"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Plan 2",
+      "id": "2",
+      "address": null,
+      "price": "$590,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,572 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/BweBJj9u/",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-2-699151",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Plan 3",
+      "id": "3",
+      "address": null,
+      "price": "$614,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,650 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/898BoUgD/",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-3-699152",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Plan 3X",
+      "id": "3",
+      "address": null,
+      "price": "$614,990",
+      "beds": "3 bd",
+      "baths": "2.5 ba",
+      "sqft": "1,650 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/NGist5H9/",
+      "url": "https://www.pulte.com/homes/california/san-bernardino-county/ontario/clover-at-wildflower-acres-211420/plan-3x-699153",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

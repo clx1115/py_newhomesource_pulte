@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-06-05T12:26:20.769973",
+  "name": "Southport Meadows",
+  "status": null,
+  "url": "https://www.pulte.com/homes/north-carolina/wilmington/southport/southport-meadows-211481",
+  "price_from": null,
+  "address": "7997 River Road SE, Southport, North Carolina 28461",
+  "phone": "(910) 407-0111",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/N2AGIT58/"
+  ],
+  "location": {
+    "latitude": 33.961589,
+    "longitude": -78.035139,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Pool Cabana",
+      "description": "Pool and Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Green Spaces",
+      "description": "Green Spaces",
+      "icon_url": null
+    },
+    {
+      "name": "On-Site Fitness",
+      "description": "On-Site Fitness Center",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Oak",
+      "description": "7 Miles to Oak Island Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Downtown",
+      "description": "4 Miles to Downtown Southport",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby all",
+      "description": "Nearby to all daily conveniences",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Dosher",
+      "description": "3 Miles to Dosher Memorial Hospital",
+      "icon_url": null
+    },
+    {
+      "name": "Miles Downtown",
+      "description": "25 Miles to Downtown Wilmington",
+      "icon_url": null
+    },
+    {
+      "name": "Home Designs",
+      "description": "Pulte Homes come with an industry leading 10-year limited structural new home warranty",
+      "icon_url": null
+    },
+    {
+      "name": "Our time-tested",
+      "description": "Our time-tested Build Quality Experience process ensures the highest in quality and customer satisfaction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

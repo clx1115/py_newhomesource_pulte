@@ -1,0 +1,787 @@
+{
+  "timestamp": "2025-06-05T01:41:58.288646",
+  "name": "Sun City Hilton Head",
+  "status": null,
+  "url": "https://www.delwebb.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002",
+  "price_from": "$355,990",
+  "address": "247 Fawnwood Court, Bluffton, South Carolina 29909",
+  "phone": "(843) 203-0360",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/mrooCBJ6/V/136835/13",
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/VtklzrSm/V/477586/13"
+  ],
+  "location": {
+    "latitude": 32.301281,
+    "longitude": -80.955763,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$355,990-$692,990",
+    "sqft_range": "1,345-2,712",
+    "bed_range": "2-5",
+    "bath_range": "2.0-5.0",
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Over 150",
+      "description": "Over 150 Community Clubs and Organizations",
+      "icon_url": null
+    },
+    {
+      "name": "18-Hole Championship",
+      "description": "3 18-Hole Championship Golf Courses",
+      "icon_url": null
+    },
+    {
+      "name": "Pools (Indoor",
+      "description": "6 Pools (Indoor and Outdoor)",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Parks",
+      "description": "Dog Parks",
+      "icon_url": null
+    },
+    {
+      "name": "Restaurants",
+      "description": "3 Restaurants",
+      "icon_url": null
+    },
+    {
+      "name": "Over 165,000",
+      "description": "Over 165,000 square feet of Amenities",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce Courts",
+      "description": "Bocce Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Softball Field",
+      "description": "Softball Field",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball Tennis",
+      "description": "Pickleball and Tennis Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Community Dock",
+      "description": "Community Dock on the Okatie River",
+      "icon_url": null
+    },
+    {
+      "name": "Classic Inspiring",
+      "description": "Classic and Inspiring for 30 Years",
+      "icon_url": null
+    },
+    {
+      "name": "Natural Gas",
+      "description": "Natural Gas Community",
+      "icon_url": null
+    },
+    {
+      "name": "Softball Field",
+      "description": "Softball Field",
+      "icon_url": null
+    },
+    {
+      "name": "Golf Courses",
+      "description": "3 Golf Courses",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Centers",
+      "description": "3 Fitness Centers",
+      "icon_url": null
+    },
+    {
+      "name": "Activity Rooms",
+      "description": "Activity Rooms",
+      "icon_url": null
+    },
+    {
+      "name": "Woodworking Shop",
+      "description": "Woodworking Shop",
+      "icon_url": null
+    },
+    {
+      "name": "Swimming Pools",
+      "description": "6 Swimming Pools",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Parks",
+      "description": "Dog Parks",
+      "icon_url": null
+    },
+    {
+      "name": "Billiards Room",
+      "description": "Billiards Room",
+      "icon_url": null
+    },
+    {
+      "name": "Lending Library",
+      "description": "Lending Library",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce Courts",
+      "description": "Bocce Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Putting Green",
+      "description": "Putting Green",
+      "icon_url": null
+    },
+    {
+      "name": "Restaurants",
+      "description": "3 Restaurants",
+      "icon_url": null
+    },
+    {
+      "name": "Pottery",
+      "description": "Pottery",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramics",
+      "description": "Ceramics",
+      "icon_url": null
+    },
+    {
+      "name": "Softball",
+      "description": "Softball",
+      "icon_url": null
+    },
+    {
+      "name": "Theater",
+      "description": "Theater",
+      "icon_url": null
+    },
+    {
+      "name": "Cyclers",
+      "description": "Cyclers",
+      "icon_url": null
+    },
+    {
+      "name": "Mahjongg",
+      "description": "Mahjongg",
+      "icon_url": null
+    },
+    {
+      "name": "Bridge",
+      "description": "Bridge",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis",
+      "description": "Tennis",
+      "icon_url": null
+    },
+    {
+      "name": "Sundancers",
+      "description": "Sundancers",
+      "icon_url": null
+    },
+    {
+      "name": "Road Scholar's",
+      "description": "Road Scholar's",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Croquet",
+      "description": "Croquet",
+      "icon_url": null
+    },
+    {
+      "name": "Arts Crafts",
+      "description": "Arts and Crafts",
+      "icon_url": null
+    },
+    {
+      "name": "Library",
+      "description": "Library",
+      "icon_url": null
+    },
+    {
+      "name": "Quilting",
+      "description": "Quilting",
+      "icon_url": null
+    },
+    {
+      "name": "Water Aerobics",
+      "description": "Water Aerobics",
+      "icon_url": null
+    },
+    {
+      "name": "Model Trains",
+      "description": "Model Trains",
+      "icon_url": null
+    },
+    {
+      "name": "Motorcycles",
+      "description": "Motorcycles",
+      "icon_url": null
+    },
+    {
+      "name": "Cruises",
+      "description": "Cruises",
+      "icon_url": null
+    },
+    {
+      "name": "Stationary Making",
+      "description": "Stationary Making",
+      "icon_url": null
+    },
+    {
+      "name": "Painting",
+      "description": "Painting",
+      "icon_url": null
+    },
+    {
+      "name": "Mens Golf",
+      "description": "Mens Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Womens Golf",
+      "description": "Womens Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Music Guild",
+      "description": "Music Guild",
+      "icon_url": null
+    },
+    {
+      "name": "Avant-Gardeners",
+      "description": "Avant-Gardeners",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Brilliance",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/brilliance-695408",
+      "details": {
+        "price": "From $355,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,357 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/R0T724d5/V/650489/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Caledonia",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/caledonia-695409",
+      "details": {
+        "price": "From $358,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,397 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/kMKVfDDc/V/653654/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Danbury",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/danbury-695407",
+      "details": {
+        "price": "From $402,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,390 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xw9MVOAA/V/516903/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Ellenton",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/ellenton-695406",
+      "details": {
+        "price": "From $422,990",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,528 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/p3gNTGJp/V/516938/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Contour",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/contour-692202",
+      "details": {
+        "price": "From $443,990",
+        "beds": "2-3 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,345+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8klfRv2/V/471939/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Compass",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/compass-692201",
+      "details": {
+        "price": "From $452,990",
+        "beds": "2-4 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,403+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/iVC6Ixkp/V/296241/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Hallmark",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/hallmark-692203",
+      "details": {
+        "price": "From $464,990",
+        "beds": "2-4 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,581+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Fhy1kXSZ/V/296368/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prosperity",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/prosperity-692208",
+      "details": {
+        "price": "From $532,990",
+        "beds": "2-4 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,600+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8NCr4p07/V/279144/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Mystique",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/mystique-692205",
+      "details": {
+        "price": "From $546,990",
+        "beds": "2-5 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,809+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Q9BQQfY1/"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Mainstay",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/mainstay-692204",
+      "details": {
+        "price": "From $556,990",
+        "beds": "2-4 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,872+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/e8mPuPg6/V/317406/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Palmary",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/palmary-692206",
+      "details": {
+        "price": "From $585,990",
+        "beds": "2-4 bd",
+        "baths": "2-3 ba",
+        "half_baths": null,
+        "sqft": "1,858+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OvNsyjm1/V/296391/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prestige",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/prestige-692207",
+      "details": {
+        "price": "From $588,990",
+        "beds": "2-4 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "1,987+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4sDTWwv4/V/296403/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Stardom",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/stardom-692211",
+      "details": {
+        "price": "From $663,990",
+        "beds": "2-4 bd",
+        "baths": "2.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "2,179+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/nBZAJiXV/V/296516/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Stellar",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/stellar-692212",
+      "details": {
+        "price": "From $664,990",
+        "beds": "2-4 bd",
+        "baths": "2.5-5 ba",
+        "half_baths": null,
+        "sqft": "2,240+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ESjgiDdL/V/279347/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Renown",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/renown-692209",
+      "details": {
+        "price": "From $692,990",
+        "beds": "3-4 bd",
+        "baths": "3.5-5 ba",
+        "half_baths": null,
+        "sqft": "2,712+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yKNh8KcK/V/296481/13"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Brilliance",
+      "id": "695408",
+      "address": null,
+      "price": "$355,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,357 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/R0T724d5/V/650489/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/brilliance-695408",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Caledonia",
+      "id": "695409",
+      "address": null,
+      "price": "$358,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,397 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/kMKVfDDc/V/653654/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/caledonia-695409",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Danbury",
+      "id": "695407",
+      "address": null,
+      "price": "$402,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,390 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/xw9MVOAA/V/516903/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/danbury-695407",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Ellenton",
+      "id": "695406",
+      "address": null,
+      "price": "$422,990",
+      "beds": "2 bd",
+      "baths": "2 ba",
+      "sqft": "1,528 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/p3gNTGJp/V/516938/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/ellenton-695406",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Contour",
+      "id": "692202",
+      "address": null,
+      "price": "$443,990",
+      "beds": "2-3 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,345+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/v8klfRv2/V/471939/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/contour-692202",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Compass",
+      "id": "692201",
+      "address": null,
+      "price": "$452,990",
+      "beds": "2-4 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,403+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/iVC6Ixkp/V/296241/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/compass-692201",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Hallmark",
+      "id": "692203",
+      "address": null,
+      "price": "$464,990",
+      "beds": "2-4 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,581+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/Fhy1kXSZ/V/296368/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/hallmark-692203",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Prosperity",
+      "id": "692208",
+      "address": null,
+      "price": "$532,990",
+      "beds": "2-4 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,600+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8NCr4p07/V/279144/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/prosperity-692208",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Mystique",
+      "id": "692205",
+      "address": null,
+      "price": "$546,990",
+      "beds": "2-5 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,809+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.cdn.picturepark.com/v/Q9BQQfY1/",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/mystique-692205",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Mainstay",
+      "id": "692204",
+      "address": null,
+      "price": "$556,990",
+      "beds": "2-4 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,872+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/e8mPuPg6/V/317406/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/mainstay-692204",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Palmary",
+      "id": "692206",
+      "address": null,
+      "price": "$585,990",
+      "beds": "2-4 bd",
+      "baths": "2-3 ba",
+      "sqft": "1,858+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/OvNsyjm1/V/296391/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/palmary-692206",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Prestige",
+      "id": "692207",
+      "address": null,
+      "price": "$588,990",
+      "beds": "2-4 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "1,987+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/4sDTWwv4/V/296403/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/prestige-692207",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Stardom",
+      "id": "692211",
+      "address": null,
+      "price": "$663,990",
+      "beds": "2-4 bd",
+      "baths": "2.5-4.5 ba",
+      "sqft": "2,179+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/nBZAJiXV/V/296516/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/stardom-692211",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Stellar",
+      "id": "692212",
+      "address": null,
+      "price": "$664,990",
+      "beds": "2-4 bd",
+      "baths": "2.5-5 ba",
+      "sqft": "2,240+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/ESjgiDdL/V/279347/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/stellar-692212",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Renown",
+      "id": "692209",
+      "address": null,
+      "price": "$692,990",
+      "beds": "3-4 bd",
+      "baths": "3.5-5 ba",
+      "sqft": "2,712+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yKNh8KcK/V/296481/13",
+      "url": "https://www.pulte.com/homes/south-carolina/hilton-head/bluffton/sun-city-hilton-head-12002/renown-692209",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

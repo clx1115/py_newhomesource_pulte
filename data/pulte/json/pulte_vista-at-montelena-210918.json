@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-06-03T14:55:25.904428",
+  "name": "Vista at Montelena",
+  "status": null,
+  "url": "https://www.pulte.com/homes/california/sacramento/rancho-cordova/vista-at-montelena-210918",
+  "price_from": "$702,990",
+  "address": "11977 Cobble Brook Drive, Rancho Cordova, California 95742",
+  "phone": "(916) 302-8774",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.cdn.picturepark.com/v/WqgUXDfI/"
+  ],
+  "location": {
+    "latitude": 38.555761,
+    "longitude": -121.226155,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [
+    {
+      "name": "Convenient proximity",
+      "description": "Convenient proximity to regional thoroughfares SR-50 and I-80, as well as locally serving thoroughfare Sunrise Boulevard, for connectivity to cities in the Sacramento Valley, the Bay Area to the south/southwest and Lake Tahoe to the north/northeast.",
+      "icon_url": null
+    },
+    {
+      "name": "Vista Montelena",
+      "description": "Vista at Montelena provides access to a range of retail, shopping and dining options in both Rancho Cordova itself as well as neighboring Folsom to the east",
+      "icon_url": null
+    },
+    {
+      "name": "Very conveniently",
+      "description": "Very conveniently located less than 1-mile due west is Sunridge Plaza, anchored by a Raley’s grocery store, a Walgreen’s pharmacy, several in-line food retailers including Starbucks and a gourmet burger restaurant, and other neighborhood-serving retailers including a bank, UPS store, dentistry office, gas station, pet store, and several others.",
+      "icon_url": null
+    },
+    {
+      "name": "Located within",
+      "description": "Located within a strong K-8 and 9-12 school scores for the children of residents, per the GreatSchools rating scale.",
+      "icon_url": null
+    },
+    {
+      "name": "Approximately miles",
+      "description": "Approximately 3 miles up Sunrise Boulevard from the site is a Costco Wholesale store and pharmacy.",
+      "icon_url": null
+    },
+    {
+      "name": "Less than",
+      "description": "Less than 10 miles from the Folsom Premium Outlets, which is home to 80+ outlet stores",
+      "icon_url": null
+    },
+    {
+      "name": "Vista Montelena",
+      "description": "Vista at Montelena residents will have easy access to several regional recreational amenities, including local parks, farmer’s markets, a wide range of wineries/breweries and water recreation.",
+      "icon_url": null
+    },
+    {
+      "name": "20-acre Heron",
+      "description": "The 20-acre Heron Landing Community Park is located a short 2-miles south of Vista at Montelena, and offers local residents a variety of recreation amenities with its 2 baseball fields, basketball court, 2 pavilions, 5 picnic areas, 2 playgrounds, soccer field, 2 softball fields, spray park, tennis courts, and open grass areas.",
+      "icon_url": null
+    },
+    {
+      "name": "This community",
+      "description": "This community includes a Fiber network that provides fast, reliable, multi-user Internet needed in homes today and in the future.",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}

@@ -1,0 +1,427 @@
+{
+  "timestamp": "2025-06-05T13:31:22.952832",
+  "name": "Del Webb Tradition",
+  "status": null,
+  "url": "https://www.delwebb.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846",
+  "price_from": "$361,990",
+  "address": "12790 SW Cattleya Lane, Port St. Lucie, Florida 34987",
+  "phone": "(772) 209-3850",
+  "description": "ABOUT THE HOME ENERGY RATING SCALE\nThe HERS (Home Energy Rating System) Index allows buyers to compare the relative energy efficiency of different homes. The HERS Index home energy rating is determined by an independent RESNET-certified home energy rater (\"Rater\"). The lower a home&rsquo;s score, the more energy efficient it is in comparison to the HERS referenced home. For every one-point decrease in the HERS Index score, there is a corresponding one percent (1%) reduction in energy consumption as compared to a home with a HERS Index of 100. A home with a HERS score of 100 reflects a home built to 2006 IEEC Building Codes. See the bottom of this page for more information on HERS scores.",
+  "images": [
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/T3atjaSm/V/316028/13",
+    "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/4TUiKE62/V/382087/13"
+  ],
+  "location": {
+    "latitude": 27.233347,
+    "longitude": -80.429607,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$361,990-$589,990",
+    "sqft_range": "1,579-2,808",
+    "bed_range": "2-4",
+    "bath_range": "2.0-4.5",
+    "stories_range": null,
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pickleball Courts",
+      "description": "Pickleball Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis Courts",
+      "description": "Tennis Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Resort-Style Pool",
+      "description": "Resort-Style Pool and Spa",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce Ball",
+      "description": "Bocce Ball Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Full-Time Lifestyle",
+      "description": "Full-Time Lifestyle Director",
+      "icon_url": null
+    },
+    {
+      "name": "State-of-the-Art Fitness",
+      "description": "State-of-the-Art Fitness Center",
+      "icon_url": null
+    },
+    {
+      "name": "Movement Studio",
+      "description": "Movement Studio",
+      "icon_url": null
+    },
+    {
+      "name": "Locker Rooms",
+      "description": "Locker Rooms",
+      "icon_url": null
+    },
+    {
+      "name": "Passive Lake",
+      "description": "Passive Lake Trail",
+      "icon_url": null
+    },
+    {
+      "name": "Catering Kitchen",
+      "description": "Catering Kitchen",
+      "icon_url": null
+    },
+    {
+      "name": "Firepit",
+      "description": "Firepit",
+      "icon_url": null
+    },
+    {
+      "name": "Cards Crafts",
+      "description": "Cards and Crafts Room",
+      "icon_url": null
+    },
+    {
+      "name": "Lounge",
+      "description": "Lounge",
+      "icon_url": null
+    },
+    {
+      "name": "Activity Room",
+      "description": "Activity Room",
+      "icon_url": null
+    },
+    {
+      "name": "Social Hall",
+      "description": "Social Hall",
+      "icon_url": null
+    },
+    {
+      "name": "Clubhouse",
+      "description": "Clubhouse",
+      "icon_url": null
+    },
+    {
+      "name": "Bingo Bunco",
+      "description": "Bingo and Bunco",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park COMING SOON!",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Ellenwood",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/ellenwood-691469",
+      "details": {
+        "price": "From $361,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,579 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yn1br7lv/V/279046/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prosperity",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/prosperity-691522",
+      "details": {
+        "price": "From $420,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,670+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8jwkChnx/V/382086/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Mystique",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/mystique-691519",
+      "details": {
+        "price": "From $432,990",
+        "beds": "2-4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,889+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/enTCJAVw/V/382084/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Palmary",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/palmary-691520",
+      "details": {
+        "price": "From $435,990",
+        "beds": "2-3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,943 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/j2pY8pjM/V/382083/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Prestige",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/prestige-691521",
+      "details": {
+        "price": "From $446,990",
+        "beds": "2-3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,080 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eRHZWfXl/V/273300/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Stardom",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/stardom-691525",
+      "details": {
+        "price": "From $550,990",
+        "beds": "2-3 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "2,269 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/DcKVJrqx/V/273325/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Stellar",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/stellar-691526",
+      "details": {
+        "price": "From $567,990",
+        "beds": "3 bd",
+        "baths": "3-4 ba",
+        "half_baths": null,
+        "sqft": "2,483+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/344lmtD1/V/382088/13"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Reverence",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/reverence-691524",
+      "details": {
+        "price": "From $580,990",
+        "beds": "3 bd",
+        "baths": "2.5-3.5 ba",
+        "half_baths": null,
+        "sqft": "2,669 ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UAtk1A54/V/273321/1"
+      },
+      "floorplan_images": null
+    },
+    {
+      "name": "Renown",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/renown-691523",
+      "details": {
+        "price": "From $589,990",
+        "beds": "3 bd",
+        "baths": "3.5-4.5 ba",
+        "half_baths": null,
+        "sqft": "2,808+ ft²",
+        "status": "Actively selling",
+        "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5Z2HrIYy/V/382087/13"
+      },
+      "floorplan_images": null
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Ellenwood",
+      "id": "691469",
+      "address": null,
+      "price": "$361,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,579 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/yn1br7lv/V/279046/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/ellenwood-691469",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Prosperity",
+      "id": "691522",
+      "address": null,
+      "price": "$420,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,670+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/8jwkChnx/V/382086/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/prosperity-691522",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Mystique",
+      "id": "691519",
+      "address": null,
+      "price": "$432,990",
+      "beds": "2-4 bd",
+      "baths": "2 ba",
+      "sqft": "1,889+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/enTCJAVw/V/382084/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/mystique-691519",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Palmary",
+      "id": "691520",
+      "address": null,
+      "price": "$435,990",
+      "beds": "2-3 bd",
+      "baths": "2 ba",
+      "sqft": "1,943 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/j2pY8pjM/V/382083/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/palmary-691520",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Prestige",
+      "id": "691521",
+      "address": null,
+      "price": "$446,990",
+      "beds": "2-3 bd",
+      "baths": "2.5 ba",
+      "sqft": "2,080 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/eRHZWfXl/V/273300/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/prestige-691521",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Stardom",
+      "id": "691525",
+      "address": null,
+      "price": "$550,990",
+      "beds": "2-3 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "2,269 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/DcKVJrqx/V/273325/1",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/stardom-691525",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Stellar",
+      "id": "691526",
+      "address": null,
+      "price": "$567,990",
+      "beds": "3 bd",
+      "baths": "3-4 ba",
+      "sqft": "2,483+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/344lmtD1/V/382088/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/stellar-691526",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": [
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/pu_family-moving-in-pulte_day3-7928_1920x539_tablet.jpg",
+        "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.55,c_fill,f_auto,q_auto,w_auto,f_auto,q_auto/https://www.pulte.com/-/media/static-picturepark-assets/uncategorized/2022/03/02/02/19/394294-1--pt21411pulteinnovationcampaignwebsitebannergreatoutdoors1920x1240jpg.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Reverence",
+      "id": "691524",
+      "address": null,
+      "price": "$580,990",
+      "beds": "3 bd",
+      "baths": "2.5-3.5 ba",
+      "sqft": "2,669 ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/UAtk1A54/V/273321/1",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/reverence-691524",
+      "latitude": null,
+      "longitude": null,
+      "overview": null,
+      "images": []
+    },
+    {
+      "name": null,
+      "plan": "Renown",
+      "id": "691523",
+      "address": null,
+      "price": "$589,990",
+      "beds": "3 bd",
+      "baths": "3.5-4.5 ba",
+      "sqft": "2,808+ ft²",
+      "status": "Available",
+      "image_url": "https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,g_north,w_132,f_auto,q_auto/https://pultegroup.picturepark.com/Go/5Z2HrIYy/V/382087/13",
+      "url": "https://www.pulte.com/homes/florida/treasure-coast/port-st-lucie/del-webb-tradition-209846/renown-691523",
+      "latitude": 27.3646311523029,
+      "longitude": -82.3959473004829,
+      "overview": "",
+      "images": []
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": []
+}

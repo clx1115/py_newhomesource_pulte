@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-06-05T13:14:00.689023",
+  "name": null,
+  "status": null,
+  "url": "https://www.pulte.com/homes/nevada/mesquite/mesquite/suntero-210969",
+  "price_from": null,
+  "address": null,
+  "phone": null,
+  "description": null,
+  "images": [],
+  "location": {
+    "latitude": null,
+    "longitude": null,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": null,
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": null,
+    "community_count": null
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": []
+}
