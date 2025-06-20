@@ -221,9 +221,12 @@ def fetch_page(url, output_dir='data/pulte'):
             data["phone"] = phone_elem.text.strip()
 
         # 描述信息
-        desc_elem = soup.find('div', class_=lambda x: x and ('description' in x.lower() or 'overview' in x.lower()))
+        desc_elem = soup.find('div', class_='description')
         if desc_elem:
             data["description"] = desc_elem.text.strip()
+            logger.info(f"找到社区描述: {data['description']}")
+        else:
+            logger.warning("未找到社区描述元素")
 
         # 户型信息
         glance_section = soup.find('div', class_='GlanceViewSection')
